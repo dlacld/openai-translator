@@ -20,7 +20,7 @@ def launch_gradio():
 
     iface = gr.Interface(
         fn=translation,
-        title="OpenAI-Translator v2.0(PDF 电子书翻译工具2250)",
+        title="glm-4-Translator v2.0(PDF 电子书翻译工具2250)",
         inputs=[
             gr.File(label="上传PDF文件"),
             gr.Textbox(label="源语言（默认：英文）", placeholder="English", value="English"),

@@ -2328,3 +2328,40 @@ touching the heavens. It's a sight that fills the heart with peace and wonder.
 2025-05-03 23:18:50.694 | DEBUG    | translator.writer:save_translated_book:18 - markdown
 2025-05-03 23:18:50.695 | INFO     | translator.writer:_save_translated_book_markdown:90 - 开始导出: /private/var/folders/hs/8p529r5x2811ltb4jwc49lgr0000gn/T/gradio/3099adc321c2e6c3dda9ad0e7f8b1a36728318706eff5c150bae6013bc961c16/English_translated.md
 2025-05-03 23:18:50.695 | INFO     | translator.writer:save_translated_book:28 - 翻译完成，文件保存至: /private/var/folders/hs/8p529r5x2811ltb4jwc49lgr0000gn/T/gradio/3099adc321c2e6c3dda9ad0e7f8b1a36728318706eff5c150bae6013bc961c16/English_translated.md
+2025-05-03 23:52:38.708 | DEBUG    | __main__:translation:12 - [翻译任务]
+源文件: /private/var/folders/hs/8p529r5x2811ltb4jwc49lgr0000gn/T/gradio/3099adc321c2e6c3dda9ad0e7f8b1a36728318706eff5c150bae6013bc961c16/English.pdf
+源语言: English
+目标语言: Chinese
+2025-05-03 23:52:38.722 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ The beauty of nature is truly astonishing. A gentle breeze rustles the leaves of the trees,
+creating a soft, soothing sound. Along the meandering river, colorful wildflowers bloom in
+profusion, attracting butterflies that flit from one to another. The clear blue sky above is
+dotted with fluffy white clouds. In the distance, majestic mountains stand tall, their peaks
+touching the heavens. It's a sight that fills the heart with peace and wonder.
+2025-05-03 23:52:50.271 | DEBUG    | translator.writer:save_translated_book:18 - markdown
+2025-05-03 23:52:50.271 | INFO     | translator.writer:_save_translated_book_markdown:90 - 开始导出: /private/var/folders/hs/8p529r5x2811ltb4jwc49lgr0000gn/T/gradio/3099adc321c2e6c3dda9ad0e7f8b1a36728318706eff5c150bae6013bc961c16/English_translated.md
+2025-05-03 23:52:50.273 | INFO     | translator.writer:save_translated_book:28 - 翻译完成，文件保存至: /private/var/folders/hs/8p529r5x2811ltb4jwc49lgr0000gn/T/gradio/3099adc321c2e6c3dda9ad0e7f8b1a36728318706eff5c150bae6013bc961c16/English_translated.md
+2025-05-03 23:53:11.924 | DEBUG    | __main__:translation:12 - [翻译任务]
+源文件: /private/var/folders/hs/8p529r5x2811ltb4jwc49lgr0000gn/T/gradio/66651ef9189a70175c829e5abacaf2c1adfcbd4bb90570f74d146e6f45096365/chinese.pdf
+源语言: English
+目标语言: Chinese
+2025-05-03 23:53:11.947 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ 夏⽇的午后，阳光透过斑驳的树叶洒下，形成⼀⽚⽚光影。蝉鸣在枝头此起彼伏，仿佛在演
+奏⼀⾸热烈的交响曲。不远处的池塘⾥，荷花亭亭⽟⽴，粉⽩的花瓣娇嫩欲滴，荷叶上滚动
+着晶莹的⽔珠，⼀切都充满了⽣机与活⼒。
+2025-05-03 23:53:17.372 | DEBUG    | translator.writer:save_translated_book:18 - markdown
+2025-05-03 23:53:17.372 | INFO     | translator.writer:_save_translated_book_markdown:90 - 开始导出: /private/var/folders/hs/8p529r5x2811ltb4jwc49lgr0000gn/T/gradio/66651ef9189a70175c829e5abacaf2c1adfcbd4bb90570f74d146e6f45096365/chinese_translated.md
+2025-05-03 23:53:17.373 | INFO     | translator.writer:save_translated_book:28 - 翻译完成，文件保存至: /private/var/folders/hs/8p529r5x2811ltb4jwc49lgr0000gn/T/gradio/66651ef9189a70175c829e5abacaf2c1adfcbd4bb90570f74d146e6f45096365/chinese_translated.md
+2025-05-03 23:54:48.613 | DEBUG    | __main__:translation:12 - [翻译任务]
+源文件: /private/var/folders/hs/8p529r5x2811ltb4jwc49lgr0000gn/T/gradio/3099adc321c2e6c3dda9ad0e7f8b1a36728318706eff5c150bae6013bc961c16/English.pdf
+源语言: English
+目标语言: Chinese
+2025-05-03 23:54:48.624 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ The beauty of nature is truly astonishing. A gentle breeze rustles the leaves of the trees,
+creating a soft, soothing sound. Along the meandering river, colorful wildflowers bloom in
+profusion, attracting butterflies that flit from one to another. The clear blue sky above is
+dotted with fluffy white clouds. In the distance, majestic mountains stand tall, their peaks
+touching the heavens. It's a sight that fills the heart with peace and wonder.
+2025-05-03 23:54:59.648 | DEBUG    | translator.writer:save_translated_book:18 - markdown
+2025-05-03 23:54:59.648 | INFO     | translator.writer:_save_translated_book_markdown:90 - 开始导出: /private/var/folders/hs/8p529r5x2811ltb4jwc49lgr0000gn/T/gradio/3099adc321c2e6c3dda9ad0e7f8b1a36728318706eff5c150bae6013bc961c16/English_translated.md
+2025-05-03 23:54:59.649 | INFO     | translator.writer:save_translated_book:28 - 翻译完成，文件保存至: /private/var/folders/hs/8p529r5x2811ltb4jwc49lgr0000gn/T/gradio/3099adc321c2e6c3dda9ad0e7f8b1a36728318706eff5c150bae6013bc961c16/English_translated.md
