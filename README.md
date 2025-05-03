@@ -40,7 +40,7 @@ OpenAI 翻译器是一个使用 AI 技术将英文 PDF 书籍翻译成中文的�
 命令行直接运行：
 
 ```bash
-python ai_translator/gradio.py
+python ai_translator/gradio_server.py
 ```
 
 ## 许可证
