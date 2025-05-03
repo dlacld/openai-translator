@@ -20,14 +20,10 @@ OpenAI 翻译器是一个使用 AI 技术将英文 PDF 书籍翻译成中文的�
 ## 特性
 
 - [x] 使用大型语言模型 (LLMs) 将英文 PDF 书籍翻译成中文。
-
-- [x] 支持 ChatGLM 和 OpenAI 模型。
-
+- [x] 支持 ChatGLM 和 OpenAI 模型。默认使用智谱LLM  "glm-4"
 - [x] 对健壮的翻译操作进行超时和错误处理。
-
-- [x] 模块化和面向对象的设计，易于定制和扩展。
-
-  
+- [x] 通过通过图形化选择将中文PDF 翻译成英文
+- [ ] 
 
 
 ## 开始使用
@@ -38,7 +34,7 @@ OpenAI 翻译器是一个使用 AI 技术将英文 PDF 书籍翻译成中文的�
 
 2.需要 Python 3.10 或更高版本。使用 `pip install -r requirements.txt` 安装依赖项。
 
-3.设置您的 OpenAI API/ZHIPUAI 密钥(`$OPENAI_API_KEY`)。您可以将其添加到环境变量中，或者在 config.yaml 文件中指定。
+3.需要设置zhipuAI 密钥,默认调用模型采用"glm-4"。
 
 ### 使用示例
 
@@ -54,7 +50,7 @@ python ai_translator/gradio_server.py
 
 该项目采用 GPL-3.0 许可证。有关详细信息，请查看 [LICENSE](LICENSE) 文件。
 
-参考
+### 参考
 
 此项目参考https://github.com/DjangoPeng/openai-quickstart
 
