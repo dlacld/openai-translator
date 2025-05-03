@@ -54,5 +54,11 @@ python ai_translator/gradio_server.py
 
 该项目采用 GPL-3.0 许可证。有关详细信息，请查看 [LICENSE](LICENSE) 文件。
 
+参考
+
+此项目参考https://github.com/DjangoPeng/openai-quickstart
+
+
+
 
 
