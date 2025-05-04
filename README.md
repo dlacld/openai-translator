@@ -1,15 +1,8 @@
-# OpenAI-Translator
-
-<p align="center">
-    <br> <a href="README.md"> English </a> | 中文
-</p>
-<p align="center">
-    <em>所有的代码和文档完全由 OpenAI 的 GPT-4 模型生成</em>
-</p>
+#LLM-Translator
 
 ## 介绍
 
-OpenAI 翻译器是一个使用 AI 技术将英文 PDF 书籍翻译成中文的工具。这个工具使用了大型语言模型 (LLMs)，如 ChatGLM glm-4 和 OpenAI 的 GPT-3 以及 GPT-3.5 Turbo 来进行翻译。它是用 Python 构建的，并且具有灵活、模块化和面向对象的设计。
+LLM-Translator 翻译器是一个使用 AI 技术将英文 PDF 书籍翻译成中文的工具。这个工具使用了大型语言模型 (LLMs)，如 ChatGLM glm-4 和 OpenAI 的 GPT-3 以及 GPT-3.5 Turbo 来进行翻译。它是用 Python 构建的，并且具有灵活、模块化和面向对象的设计。
 
 ## 为什么做这个项目
 
@@ -18,7 +11,7 @@ OpenAI 翻译器是一个使用 AI 技术将英文 PDF 书籍翻译成中文的�
 ## 特性
 
 - [x] 使用大型语言模型 (LLMs) 将英文 PDF 书籍翻译成中文。
-- [x] 图形化选择将中文PDF 翻译成英文(使用大型语言模型 (LLMs) 
+- [x] 图形化选择也可以将中文PDF 翻译成英文(使用大型语言模型 (LLMs) 
 - [x] 支持 ChatGLM 和 OpenAI 大模型。默认使用智谱LLM  "glm-4"
 - [x] 对健壮的翻译操作进行超时和错误处理。
 
@@ -35,7 +28,7 @@ OpenAI 翻译器是一个使用 AI 技术将英文 PDF 书籍翻译成中文的�
 
 ### 使用示例
 
-您可以通过指定配置文件或提供命令行参数来使用 OpenAI-Translator 工具。
+您可以通过指定配置文件或提供命令行参数来使用 LLM-Translator 工具。
 
 命令行直接运行：
 

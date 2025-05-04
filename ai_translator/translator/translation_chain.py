@@ -7,7 +7,7 @@ from utils import LOG
 from langchain_core.prompts import ChatPromptTemplate, HumanMessagePromptTemplate, SystemMessagePromptTemplate
 
 import os
-os.environ["ZHIPUAI_API_KEY"] = "e3409e33732745e4b8a326f4df5a8007.x2ElgnjvlRcGzt3I"
+API_KEY = os.getenv("ZHIPUAI_API_KEY") 
 
 class TranslationChain:
     #def __init__(self, model_name: str = "gpt-3.5-turbo", verbose: bool = True):
@@ -31,7 +31,7 @@ class TranslationChain:
 
         # 为了翻译结果的稳定性，将 temperature 设置为 0
         chat = ChatOpenAI(model_name="glm-4", temperature=0, verbose=verbose, 
-                openai_api_key="e3409e33732745e4b8a326f4df5a8007.x2ElgnjvlRcGzt3I",
+                openai_api_key=API_KEY,
                 openai_api_base="https://open.bigmodel.cn/api/paas/v4/")
         
         self.chain = LLMChain(llm=chat, prompt=chat_prompt_template, verbose=verbose)

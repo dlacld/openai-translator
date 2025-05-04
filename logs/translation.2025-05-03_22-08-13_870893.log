@@ -1,0 +1,2367 @@
+2025-05-03 22:08:13.867 | DEBUG    | __main__:translation:12 - [翻译任务]
+源文件: /private/var/folders/hs/8p529r5x2811ltb4jwc49lgr0000gn/T/gradio/3099adc321c2e6c3dda9ad0e7f8b1a36728318706eff5c150bae6013bc961c16/English.pdf
+源语言: English
+目标语言: Chinese
+2025-05-03 22:08:13.880 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ The beauty of nature is truly astonishing. A gentle breeze rustles the leaves of the trees,
+creating a soft, soothing sound. Along the meandering river, colorful wildflowers bloom in
+profusion, attracting butterflies that flit from one to another. The clear blue sky above is
+dotted with fluffy white clouds. In the distance, majestic mountains stand tall, their peaks
+touching the heavens. It's a sight that fills the heart with peace and wonder.
+2025-05-03 22:08:16.552 | DEBUG    | translator.writer:save_translated_book:18 - markdown
+2025-05-03 22:08:16.552 | INFO     | translator.writer:_save_translated_book_markdown:90 - 开始导出: /private/var/folders/hs/8p529r5x2811ltb4jwc49lgr0000gn/T/gradio/3099adc321c2e6c3dda9ad0e7f8b1a36728318706eff5c150bae6013bc961c16/English_translated.md
+2025-05-03 22:08:16.554 | INFO     | translator.writer:save_translated_book:28 - 翻译完成，文件保存至: /private/var/folders/hs/8p529r5x2811ltb4jwc49lgr0000gn/T/gradio/3099adc321c2e6c3dda9ad0e7f8b1a36728318706eff5c150bae6013bc961c16/English_translated.md
+2025-05-03 22:34:29.994 | DEBUG    | __main__:translation:12 - [翻译任务]
+源文件: /private/var/folders/hs/8p529r5x2811ltb4jwc49lgr0000gn/T/gradio/3099adc321c2e6c3dda9ad0e7f8b1a36728318706eff5c150bae6013bc961c16/English.pdf
+源语言: English
+目标语言: Chinese
+2025-05-03 22:34:30.004 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ The beauty of nature is truly astonishing. A gentle breeze rustles the leaves of the trees,
+creating a soft, soothing sound. Along the meandering river, colorful wildflowers bloom in
+profusion, attracting butterflies that flit from one to another. The clear blue sky above is
+dotted with fluffy white clouds. In the distance, majestic mountains stand tall, their peaks
+touching the heavens. It's a sight that fills the heart with peace and wonder.
+2025-05-03 22:34:30.243 | ERROR    | translator.translation_chain:run:43 - An error occurred during translation: Client error '400 Bad Request' for url 'https://open.bigmodel.cn/api/paas/v4/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2025-05-03 22:34:30.243 | DEBUG    | translator.writer:save_translated_book:18 - markdown
+2025-05-03 22:34:30.244 | INFO     | translator.writer:_save_translated_book_markdown:90 - 开始导出: /private/var/folders/hs/8p529r5x2811ltb4jwc49lgr0000gn/T/gradio/3099adc321c2e6c3dda9ad0e7f8b1a36728318706eff5c150bae6013bc961c16/English_translated.md
+2025-05-03 22:34:30.246 | INFO     | translator.writer:save_translated_book:28 - 翻译完成，文件保存至: /private/var/folders/hs/8p529r5x2811ltb4jwc49lgr0000gn/T/gradio/3099adc321c2e6c3dda9ad0e7f8b1a36728318706eff5c150bae6013bc961c16/English_translated.md
+2025-05-03 22:38:18.367 | DEBUG    | __main__:translation:12 - [翻译任务]
+源文件: /private/var/folders/hs/8p529r5x2811ltb4jwc49lgr0000gn/T/gradio/3099adc321c2e6c3dda9ad0e7f8b1a36728318706eff5c150bae6013bc961c16/English.pdf
+源语言: English
+目标语言: Chinese
+2025-05-03 22:38:18.377 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ The beauty of nature is truly astonishing. A gentle breeze rustles the leaves of the trees,
+creating a soft, soothing sound. Along the meandering river, colorful wildflowers bloom in
+profusion, attracting butterflies that flit from one to another. The clear blue sky above is
+dotted with fluffy white clouds. In the distance, majestic mountains stand tall, their peaks
+touching the heavens. It's a sight that fills the heart with peace and wonder.
+2025-05-03 22:38:18.611 | ERROR    | translator.translation_chain:run:46 - An error occurred during translation: Client error '400 Bad Request' for url 'https://open.bigmodel.cn/api/paas/v4/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2025-05-03 22:38:18.612 | DEBUG    | translator.writer:save_translated_book:18 - markdown
+2025-05-03 22:38:18.613 | INFO     | translator.writer:_save_translated_book_markdown:90 - 开始导出: /private/var/folders/hs/8p529r5x2811ltb4jwc49lgr0000gn/T/gradio/3099adc321c2e6c3dda9ad0e7f8b1a36728318706eff5c150bae6013bc961c16/English_translated.md
+2025-05-03 22:38:18.614 | INFO     | translator.writer:save_translated_book:28 - 翻译完成，文件保存至: /private/var/folders/hs/8p529r5x2811ltb4jwc49lgr0000gn/T/gradio/3099adc321c2e6c3dda9ad0e7f8b1a36728318706eff5c150bae6013bc961c16/English_translated.md
+2025-05-03 22:50:48.620 | DEBUG    | __main__:translation:12 - [翻译任务]
+源文件: /private/var/folders/hs/8p529r5x2811ltb4jwc49lgr0000gn/T/gradio/3099adc321c2e6c3dda9ad0e7f8b1a36728318706eff5c150bae6013bc961c16/English.pdf
+源语言: English
+目标语言: Chinese
+2025-05-03 22:50:48.630 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ The beauty of nature is truly astonishing. A gentle breeze rustles the leaves of the trees,
+creating a soft, soothing sound. Along the meandering river, colorful wildflowers bloom in
+profusion, attracting butterflies that flit from one to another. The clear blue sky above is
+dotted with fluffy white clouds. In the distance, majestic mountains stand tall, their peaks
+touching the heavens. It's a sight that fills the heart with peace and wonder.
+2025-05-03 22:50:48.871 | ERROR    | translator.translation_chain:run:46 - An error occurred during translation: Client error '400 Bad Request' for url 'https://open.bigmodel.cn/api/paas/v4/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2025-05-03 22:50:48.872 | DEBUG    | translator.writer:save_translated_book:18 - markdown
+2025-05-03 22:50:48.872 | INFO     | translator.writer:_save_translated_book_markdown:90 - 开始导出: /private/var/folders/hs/8p529r5x2811ltb4jwc49lgr0000gn/T/gradio/3099adc321c2e6c3dda9ad0e7f8b1a36728318706eff5c150bae6013bc961c16/English_translated.md
+2025-05-03 22:50:48.874 | INFO     | translator.writer:save_translated_book:28 - 翻译完成，文件保存至: /private/var/folders/hs/8p529r5x2811ltb4jwc49lgr0000gn/T/gradio/3099adc321c2e6c3dda9ad0e7f8b1a36728318706eff5c150bae6013bc961c16/English_translated.md
+2025-05-03 22:57:37.047 | DEBUG    | __main__:translation:12 - [翻译任务]
+源文件: /private/var/folders/hs/8p529r5x2811ltb4jwc49lgr0000gn/T/gradio/3099adc321c2e6c3dda9ad0e7f8b1a36728318706eff5c150bae6013bc961c16/English.pdf
+源语言: English
+目标语言: Chinese
+2025-05-03 22:57:37.058 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ The beauty of nature is truly astonishing. A gentle breeze rustles the leaves of the trees,
+creating a soft, soothing sound. Along the meandering river, colorful wildflowers bloom in
+profusion, attracting butterflies that flit from one to another. The clear blue sky above is
+dotted with fluffy white clouds. In the distance, majestic mountains stand tall, their peaks
+touching the heavens. It's a sight that fills the heart with peace and wonder.
+2025-05-03 22:57:37.322 | ERROR    | translator.translation_chain:run:48 - An error occurred during translation: Error code: 400 - {'error': {'code': '1211', 'message': '模型不存在，请检查模型代码。'}}
+2025-05-03 22:57:37.322 | DEBUG    | translator.writer:save_translated_book:18 - markdown
+2025-05-03 22:57:37.322 | INFO     | translator.writer:_save_translated_book_markdown:90 - 开始导出: /private/var/folders/hs/8p529r5x2811ltb4jwc49lgr0000gn/T/gradio/3099adc321c2e6c3dda9ad0e7f8b1a36728318706eff5c150bae6013bc961c16/English_translated.md
+2025-05-03 22:57:37.323 | INFO     | translator.writer:save_translated_book:28 - 翻译完成，文件保存至: /private/var/folders/hs/8p529r5x2811ltb4jwc49lgr0000gn/T/gradio/3099adc321c2e6c3dda9ad0e7f8b1a36728318706eff5c150bae6013bc961c16/English_translated.md
+2025-05-03 22:59:27.495 | DEBUG    | __main__:translation:12 - [翻译任务]
+源文件: /private/var/folders/hs/8p529r5x2811ltb4jwc49lgr0000gn/T/gradio/3099adc321c2e6c3dda9ad0e7f8b1a36728318706eff5c150bae6013bc961c16/English.pdf
+源语言: English
+目标语言: Chinese
+2025-05-03 22:59:27.505 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ The beauty of nature is truly astonishing. A gentle breeze rustles the leaves of the trees,
+creating a soft, soothing sound. Along the meandering river, colorful wildflowers bloom in
+profusion, attracting butterflies that flit from one to another. The clear blue sky above is
+dotted with fluffy white clouds. In the distance, majestic mountains stand tall, their peaks
+touching the heavens. It's a sight that fills the heart with peace and wonder.
+2025-05-03 22:59:39.800 | DEBUG    | translator.writer:save_translated_book:18 - markdown
+2025-05-03 22:59:39.800 | INFO     | translator.writer:_save_translated_book_markdown:90 - 开始导出: /private/var/folders/hs/8p529r5x2811ltb4jwc49lgr0000gn/T/gradio/3099adc321c2e6c3dda9ad0e7f8b1a36728318706eff5c150bae6013bc961c16/English_translated.md
+2025-05-03 22:59:39.801 | INFO     | translator.writer:save_translated_book:28 - 翻译完成，文件保存至: /private/var/folders/hs/8p529r5x2811ltb4jwc49lgr0000gn/T/gradio/3099adc321c2e6c3dda9ad0e7f8b1a36728318706eff5c150bae6013bc961c16/English_translated.md
+2025-05-03 23:00:40.983 | DEBUG    | __main__:translation:12 - [翻译任务]
+源文件: /private/var/folders/hs/8p529r5x2811ltb4jwc49lgr0000gn/T/gradio/3099adc321c2e6c3dda9ad0e7f8b1a36728318706eff5c150bae6013bc961c16/English.pdf
+源语言: English
+目标语言: Chinese
+2025-05-03 23:00:41.021 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ The beauty of nature is truly astonishing. A gentle breeze rustles the leaves of the trees,
+creating a soft, soothing sound. Along the meandering river, colorful wildflowers bloom in
+profusion, attracting butterflies that flit from one to another. The clear blue sky above is
+dotted with fluffy white clouds. In the distance, majestic mountains stand tall, their peaks
+touching the heavens. It's a sight that fills the heart with peace and wonder.
+2025-05-03 23:00:52.983 | DEBUG    | translator.writer:save_translated_book:18 - markdown
+2025-05-03 23:00:52.984 | INFO     | translator.writer:_save_translated_book_markdown:90 - 开始导出: /private/var/folders/hs/8p529r5x2811ltb4jwc49lgr0000gn/T/gradio/3099adc321c2e6c3dda9ad0e7f8b1a36728318706eff5c150bae6013bc961c16/English_translated.md
+2025-05-03 23:00:52.985 | INFO     | translator.writer:save_translated_book:28 - 翻译完成，文件保存至: /private/var/folders/hs/8p529r5x2811ltb4jwc49lgr0000gn/T/gradio/3099adc321c2e6c3dda9ad0e7f8b1a36728318706eff5c150bae6013bc961c16/English_translated.md
+2025-05-03 23:02:13.456 | DEBUG    | __main__:translation:12 - [翻译任务]
+源文件: /private/var/folders/hs/8p529r5x2811ltb4jwc49lgr0000gn/T/gradio/efb7060efecc9604d8d67b550fcd8f1b46577c9207cb02c5ca30e88dfabca2b6/test.pdf
+源语言: English
+目标语言: Chinese
+2025-05-03 23:02:13.543 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ Test Data
+This dataset contains two test samples provided by ChatGPT, an AI language model by OpenAI.
+These samples include a markdown table and an English text passage, which can be used to test an
+English-to-Chinese translation software supporting both text and table formats.
+Text testing
+The quick brown fox jumps over the lazy dog. This pangram contains every letter of the English
+alphabet at least once. Pangrams are often used to test fonts, keyboards, and other text-related
+tools. In addition to English, there are pangrams in many other languages. Some pangrams are more
+difficult to construct due to the unique characteristics of the language.
+Table Testing
+2025-05-03 23:02:13.547 | DEBUG    | translator.pdf_parser:parse_pdf:54 - [table]
+[Fruit, Color, Price (USD)] [Apple, Red, 1.20] [Banana, Yellow, 0.50] [Orange, Orange, 0.80] [Strawberry, Red, 2.50] [Blueberry, Blue, 3.00] [Kiwi, Green, 1.00] [Mango, Orange, 1.50] [Grape, Purple, 2.00]
+2025-05-03 23:02:21.888 | DEBUG    | book.content:set_translation:54 - [translation]
+[水果，颜色，价格（美元）] [苹果，红色，1.20] [香蕉，黄色，0.50] [橙子，橙色，0.80] [草莓，红色，2.50] [蓝莓，蓝色，3.00] [奇异果，绿色，1.00] [芒果，橙色，1.50] [葡萄，紫色，2.00]
+2025-05-03 23:02:21.894 | DEBUG    | book.content:set_translation:63 - [translated_df]
+  水果，颜色，价格（美元）
+0    苹果，红色，1.2
+1    香蕉，黄色，0.5
+2    橙子，橙色，0.8
+3    草莓，红色，2.5
+4    蓝莓，蓝色，3.0
+5   奇异果，绿色，1.0
+6    芒果，橙色，1.5
+7   葡萄，紫色，2.00
+2025-05-03 23:02:21.894 | DEBUG    | translator.writer:save_translated_book:18 - markdown
+2025-05-03 23:02:21.895 | INFO     | translator.writer:_save_translated_book_markdown:90 - 开始导出: /private/var/folders/hs/8p529r5x2811ltb4jwc49lgr0000gn/T/gradio/efb7060efecc9604d8d67b550fcd8f1b46577c9207cb02c5ca30e88dfabca2b6/test_translated.md
+2025-05-03 23:02:21.896 | INFO     | translator.writer:save_translated_book:28 - 翻译完成，文件保存至: /private/var/folders/hs/8p529r5x2811ltb4jwc49lgr0000gn/T/gradio/efb7060efecc9604d8d67b550fcd8f1b46577c9207cb02c5ca30e88dfabca2b6/test_translated.md
+2025-05-03 23:08:13.847 | DEBUG    | __main__:translation:12 - [翻译任务]
+源文件: /private/var/folders/hs/8p529r5x2811ltb4jwc49lgr0000gn/T/gradio/efb7060efecc9604d8d67b550fcd8f1b46577c9207cb02c5ca30e88dfabca2b6/test.pdf
+源语言: English
+目标语言: Chinese
+2025-05-03 23:08:13.891 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ Test Data
+This dataset contains two test samples provided by ChatGPT, an AI language model by OpenAI.
+These samples include a markdown table and an English text passage, which can be used to test an
+English-to-Chinese translation software supporting both text and table formats.
+Text testing
+The quick brown fox jumps over the lazy dog. This pangram contains every letter of the English
+alphabet at least once. Pangrams are often used to test fonts, keyboards, and other text-related
+tools. In addition to English, there are pangrams in many other languages. Some pangrams are more
+difficult to construct due to the unique characteristics of the language.
+Table Testing
+2025-05-03 23:08:13.894 | DEBUG    | translator.pdf_parser:parse_pdf:54 - [table]
+[Fruit, Color, Price (USD)] [Apple, Red, 1.20] [Banana, Yellow, 0.50] [Orange, Orange, 0.80] [Strawberry, Red, 2.50] [Blueberry, Blue, 3.00] [Kiwi, Green, 1.00] [Mango, Orange, 1.50] [Grape, Purple, 2.00]
+2025-05-03 23:08:22.385 | DEBUG    | book.content:set_translation:54 - [translation]
+[水果，颜色，价格（美元）] [苹果，红色，1.20] [香蕉，黄色，0.50] [橙子，橙色，0.80] [草莓，红色，2.50] [蓝莓，蓝色，3.00] [奇异果，绿色，1.00] [芒果，橙色，1.50] [葡萄，紫色，2.00]
+2025-05-03 23:08:22.390 | DEBUG    | book.content:set_translation:63 - [translated_df]
+  水果，颜色，价格（美元）
+0    苹果，红色，1.2
+1    香蕉，黄色，0.5
+2    橙子，橙色，0.8
+3    草莓，红色，2.5
+4    蓝莓，蓝色，3.0
+5   奇异果，绿色，1.0
+6    芒果，橙色，1.5
+7   葡萄，紫色，2.00
+2025-05-03 23:08:22.391 | DEBUG    | translator.writer:save_translated_book:18 - markdown
+2025-05-03 23:08:22.391 | INFO     | translator.writer:_save_translated_book_markdown:90 - 开始导出: /private/var/folders/hs/8p529r5x2811ltb4jwc49lgr0000gn/T/gradio/efb7060efecc9604d8d67b550fcd8f1b46577c9207cb02c5ca30e88dfabca2b6/test_translated.md
+2025-05-03 23:08:22.393 | INFO     | translator.writer:save_translated_book:28 - 翻译完成，文件保存至: /private/var/folders/hs/8p529r5x2811ltb4jwc49lgr0000gn/T/gradio/efb7060efecc9604d8d67b550fcd8f1b46577c9207cb02c5ca30e88dfabca2b6/test_translated.md
+2025-05-03 23:08:40.108 | DEBUG    | __main__:translation:12 - [翻译任务]
+源文件: /private/var/folders/hs/8p529r5x2811ltb4jwc49lgr0000gn/T/gradio/3099adc321c2e6c3dda9ad0e7f8b1a36728318706eff5c150bae6013bc961c16/English.pdf
+源语言: English
+目标语言: Chinese
+2025-05-03 23:08:40.138 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ The beauty of nature is truly astonishing. A gentle breeze rustles the leaves of the trees,
+creating a soft, soothing sound. Along the meandering river, colorful wildflowers bloom in
+profusion, attracting butterflies that flit from one to another. The clear blue sky above is
+dotted with fluffy white clouds. In the distance, majestic mountains stand tall, their peaks
+touching the heavens. It's a sight that fills the heart with peace and wonder.
+2025-05-03 23:08:51.379 | DEBUG    | translator.writer:save_translated_book:18 - markdown
+2025-05-03 23:08:51.379 | INFO     | translator.writer:_save_translated_book_markdown:90 - 开始导出: /private/var/folders/hs/8p529r5x2811ltb4jwc49lgr0000gn/T/gradio/3099adc321c2e6c3dda9ad0e7f8b1a36728318706eff5c150bae6013bc961c16/English_translated.md
+2025-05-03 23:08:51.380 | INFO     | translator.writer:save_translated_book:28 - 翻译完成，文件保存至: /private/var/folders/hs/8p529r5x2811ltb4jwc49lgr0000gn/T/gradio/3099adc321c2e6c3dda9ad0e7f8b1a36728318706eff5c150bae6013bc961c16/English_translated.md
+2025-05-03 23:11:22.380 | DEBUG    | __main__:translation:12 - [翻译任务]
+源文件: /private/var/folders/hs/8p529r5x2811ltb4jwc49lgr0000gn/T/gradio/ed57a252f8e4ee35069f86eb6455340460e50540b812f270c000dca6891be455/Marco-Rubio-The-World-China-Made.pdf
+源语言: English
+目标语言: Chinese
+2025-05-03 23:11:22.456 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ THE WORLD CHINA MADE
+“Made in China 2025” Nine Years Later
+Project for Strong Labor Markets and National Development
+The Office of Senator Marco Rubio
+2025-05-03 23:11:22.506 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ CONTENTS
+Foreword by Senator Marco Rubio 3
+Introduction 4
+China’s Industrial Strategy 5
+Assessing “Made in China 2025” 7
+Strategic Industries 8
+Aerospace and Aviation 10
+Agricultural Machinery 14
+Biotechnology 17
+Electric Vehicles 19
+Energy and Power Generation 24
+High-Speed Rail 27
+New Materials 29
+Robots and Machine Tools 31
+Semiconductors 33
+Shipbuilding 35
+Innovation 38
+Smart Manufacturing 41
+Basic Industry 43
+Branding 45
+Sustainability 47
+Structural Reform 49
+Manufacturing Services 51
+“Going Global” 53
+Conclusion 56
+2
+2025-05-03 23:11:22.558 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ FOREWORD
+Senator Marco Rubio: Meeting the China Challenge
+Communist China is the most powerful adversary the United States has faced in living
+memory. This is no exaggeration. We sometimes forget that past enemies, including
+Nazi Germany and Soviet Russia, had smaller economies than we did. Each tried to take
+over its neighbors and hurt our country in the process. Each failed because America out-
+built and outgunned it.
+However, the Chinese Communist Party is playing a better hand, as it controls the
+largest industrial base in the world, fuels its factories with market-distorting subsidies
+and rampant theft, and, as this report highlights, now leads in many of the industries
+that will determine geopolitical supremacy in the 21st century, from shipbuilding to
+electric vehicles. This means Beijing will have greater sway over which set of values
+defines the 21st century: liberty and representative government, or authoritarianism
+and oppression.
+To make matters worse, the United States is in a weaker position than it was in the past.
+Decades of overregulation and “free trade” with adversarial economies like China’s have
+eroded our industrial base. Shuttered factories, drugs, and illegal immigration have
+destroyed small-town communities. Four years of the Biden-Harris Administration
+appeasing our adversaries abroad, raising the cost of living at home, and undermining
+our economy with red tape, endless reviews, and woke diversity mandates haven’t
+helped.
+For years, I’ve raised the alarm about this. I’ve introduced countless bills to stop
+Beijing’s predatory behavior and start the process of rebuilding America’s factories and
+communities. These include efforts to protect American technology from espionage,
+empower the American auto industry to beat heavily subsidized Chinese competitors,
+and hold companies accountable for using Uyghur slave labor, among many others.
+This report is my latest effort. It’s a wakeup call about how serious the threat we face has
+become. No longer can we fall back on old dogmas and stale talking points. If we want to
+win, we must take bold action to rebuild our country, overcome the China challenge, and
+keep the torch of freedom lit for generations to come.
+Sincerely,
+Marco Rubio
+U.S. Senator
+3
+2025-05-03 23:11:22.680 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ INTRODUCTION
+In 2019, the Office of Senator Marco Rubio released a report, “Made in China 2025 and
+the Future of American Industry,”1 which raised the alarm about China’s ambitious plan,
+“Made in China 2025” (MIC2025), to overtake the United States in high-value, high-
+technology sectors. Now, with 2025 looming, it is time to assess how China has done.
+Since it was unveiled in 2015, MIC2025 has undergone changes in marketing and
+emphasis. The changes in marketing have occurred in response to external criticism by
+China’s trading partners. The policy has gone underground, communicated in new
+slogans away from the glare of international media attention. The changes in emphasis
+reflect China’s experience with industrial policy, as it shifts additional resources and
+focus to sectors that are succeeding. Despite these changes, the main goals of the
+strategy remain the same: turn China into a “manufacturing powerhouse,” make the
+country self-reliant, and achieve technological leadership, supply chain dominance, and
+global economic supremacy.
+This report finds that China has reached, or is near to reaching, the technological cutting
+edge in most of the sectors it has targeted. Of the 10 sectors targeted by MIC2025, China
+can credibly claim to be the world leader in four (Electric Vehicles, Energy and Power
+Generation, Shipbuilding, and High-Speed Rail); China is therefore shaping up to be a
+superpower of green energy and advanced logistics, often in areas of technology with
+obvious military application. In five sectors, China has made substantial progress
+toward the technology frontier, but is not yet a leader: Aerospace and Aviation,
+Biotechnology, New Materials, Robotics and Machine Tools, and Semiconductors. In
+just one sector, Agricultural Machinery, has China fallen short of its aims. If Xi Jinping
+were a fund manager, he would have every reason to be pleased with the performance of
+this portfolio. China’s investments have generated outsized returns in not one, but
+several sectors.
+In addition to targeting high-tech sectors, MIC2025 included a variety of other macro
+goals. It is difficult to assess China’s performance using these goals, though
+generalizations can be made. In sum, China is by far the world’s leading exporter, and
+the composition and destination markets of its exports are shifting in response to its rise
+and the world’s reaction to that fact. China has built a formidable system for research
+and development, though the quality of its research is uneven. China has produced
+household-name brands, but far fewer than the scope of its industrial base would
+suggest. China has a highly connected and automated industrial base and is the world
+leader in the manufacture of “green” products, though its integration of those systems
+into its electrical grid is incomplete.
+1 Office of Senator Marco Rubio, “Made in China 2025 and the Future of American Industry,” February 12, 2019,
+https://www.rubio.senate.gov/rubio-releases-report-outlining-china-s-plan-for-global-dominance-and-why-america-
+must-respond/.
+4
+2025-05-03 23:11:22.740 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ The developed world is accustomed to looking down on China as a second-rate power.
+The default attitude is that we have specialized knowledge and abilities that China lacks;
+that we are the teacher, China the pupil. This position naturally lends itself to a merely
+defensive strategy, to keep China from stealing or otherwise obtaining what we already
+have. It is also outdated, limited to a shrinking number of sectors where we retain
+genuine and significant advantages. A defensive strategy is still warranted to prevent
+China from preying on us further. But it cannot be our only response.
+The United States must act now to avoid living in a world where China is the teacher,
+and we are the pupil. Unfortunately, this is the world China is making, in part through
+MIC2025.
+CHINA’S INDUSTRIAL STRATEGY
+MIC2025 is sometimes presented as a modern-day policy innovation on the part of the
+Chinese state, but it is the continuation of decades of industrial policy engrained in the
+DNA of communist countries, and nearly two decades of industrial policy explicitly
+focused on transforming China into a technologically advanced and innovative power.
+An important predecessor to MIC2025 was the “National Medium and Long-Term Plan
+for the Development of Science and Technology” (MLP), released in 2006 and
+concluded in 2020. That plan was one of China’s first forays into industrial policy with
+an explicit focus on innovation and high technology, as opposed to “traditional”
+industrial sectors like metals, mining, and basic manufactures. The MLP was notable for
+announcing 16 “Megaprojects” that China would complete by 2020. Some of these
+projects, like the effort to build China’s first wide-body passenger aircraft, would later be
+included in MIC2025.
+The Chinese government unveiled MIC2025 in May 2015. The document announcing
+the policy was characteristically sweeping and grandiose. Its preamble identified
+manufacturing as a matter of world-historic importance, stating that “without a strong
+manufacturing industry, there will be no country and no nation.”2 The document stated
+that China has a “great historical opportunity” to become a world power, owing to the
+fact that globalization has placed China at the center of the world’s supply chains. By the
+time the document was released, the “China Shock” that followed the country’s
+accession to the World Trade Organization had already rippled across the globe,
+decimating textile, apparel, furniture, and other important industries in the United
+States and other developed nations.3 China was already the world’s factory.
+MIC2025 nevertheless took a critical view of the Chinese industrial base. The document
+described China as being “still in the process of industrialization, [still having] a major
+2 State Council of the People’s Republic of China, “Notice of the State Council on the Publication of ‘Made in China
+2025,’” May 8, 2015, https://cset.georgetown.edu/wp-content/uploads/t0432_made_in_china_2025_EN.pdf.
+3 David Autor, David Dorn, and Gordon Hanson, “The China Shock: Learning From Labor Market Adjustments to
+Large Changes in Trade,” National Bureau of Economic Research, Working Paper 21906, January 2016,
+https://www.nber.org/system/files/working_papers/w21906/w21906.pdf.
+5
+2025-05-03 23:11:22.789 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ gap with advanced countries.” It is worth quoting the document’s criticism at length, to
+give a sense of where the Chinese Communist Party (CCP) thought the country needed
+to improve:
+The manufacturing industry is large but not strong. The capacity for independent
+innovation is weak, and key and core technologies and high-end equipment are
+highly dependent on foreign countries. The manufacturing innovation system
+with enterprises as the mainstay is not perfect. Product quality is not high, and
+there is a lack of world-renowned brands. The efficiency of resource and energy
+utilization is low, and the problem of environmental pollution is more
+pronounced. The industrial structure is unreasonable, and the development of
+high-end equipment manufacturing and producer services lags behind other
+countries. The level of informatization is not high, and the depth of integration
+with industrialization is insufficient. The degree of industrial internationalization
+is not high, and the globalization of enterprises is inadequate.
+The goal of MIC2025 was therefore to upgrade China’s industrial base and capacity for
+innovation so that, within the policy’s 10-year span, China would “enter…the ranks of
+the manufacturing powerhouses.”
+MIC2025 outlined nine “strategic tasks and priorities” to accomplish this goal
+(emphases added):
+1. Improve National Manufacturing Innovation Capabilities
+2. Promote the Deep Integration of Informatization and Industrialization
+3. Strengthen Basic Industrial Capabilities
+4. Strengthen Quality Brand Building
+5. Fully Implement Green Manufacturing
+6. Promote Breakthrough Development in Key Fields
+7. Deep[en] Promotion of Structural Adjustments to the Manufacturing
+Industry
+8. Actively Develop Service-Oriented Manufacturing and Producer Services
+9. Improve the Level of Internationalized Development of the Manufacturing
+Industry
+The sixth goal, concerning breakthrough developments, connects to 10 “strategic
+sectors” in high-value fields that the CCP wished to heavily subsidize and dominate by
+2025. A companion document to MIC2025 listed ambitious goals for each sector,
+including export targets and the percentage of the domestic market that the CCP
+expected to be met by domestic firms.
+If not for these aggressive targets, MIC2025 may not have occasioned much attention.
+But the plan’s emphasis on exports and import substitution posed an obvious threat to
+non-Chinese firms and countries that produced and sold in the China market. MIC2025
+therefore generated a firestorm of criticism that only grew with China’s industrial base
+over the next decade.
+6
+2025-05-03 23:11:22.852 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ Beijing altered its messaging on MIC2025 in 2019, as U.S.-China trade tensions
+intensified and the Trump Administration imposed its first round of tariffs on Chinese
+goods. Chinese officials and propaganda organs stopped mentioning the policy. Beijing
+adopted a conciliatory tone on trade and promised an end to discrimination against
+foreign firms. Behind the scenes, however, Beijing continued to implement MIC2025
+without disruption.
+If there was any doubt, recent pronouncements by CCP leaders show Beijing’s continued
+focus on manufacturing. Late last year, General Secretary Xi Jinping introduced a new
+slogan, “new quality productive forces.”4 This slogan was emphasized at the National
+People’s Congress earlier this year. Premier Li Qiang’s annual work report states that
+“moderniz[ing] the industrial system and developing new quality productive forces at a
+faster pace” are the top priorities of the government.5 Supporting documents released by
+the Ministry of Industry and Information Technology elaborated on what this slogan
+means.6 The documents identify sectors and technologies that the state will promote.
+The list of technologies includes humanoid robots, quantum computers, brain-computer
+interface, 6G network equipment, deep-sea drilling and mining technology, and
+advanced aviation equipment.7 There is considerable overlap between the technologies
+and sectors on this list and MIC2025. Indeed, analysts have referred to “new quality
+productive forces” as “the next evolution of the ‘Made in China 2025’ strategy.”8
+Far from abandoning aggressive industrial strategy, Beijing appears to be preparing for
+another decade of manufacturing- and export-oriented development. That decision will
+have dramatic consequences for the world, just as MIC2025 reshaped China and global
+trade during the past decade.
+ASSESSING “MADE IN CHINA 2025”
+Has MIC2025 been a success? This is not a straightforward question to answer, since
+China’s “goals” for the project were often vague or undefined, while at other times,
+China set very precise goals that are nonetheless impossible to measure without access
+to proprietary (and often CCP-controlled) data.
+This report seeks to shed light on the problem in the following ways. It examines in
+detail the 10 industries China targeted for “breakthrough development.” It then
+4 Yanzi Xu, “China’s Focus on New Quality Productive Forces,” Information Technology & Innovation Foundation,
+May 28, 2024, https://itif.org/publications/2024/05/28/chinas-focus-on-new-quality-productive-forces/.
+5 Li Qiang, “Report on the Work of the Government,” Second Session of the 14th National People’s Congress of
+the People’s Republic of China, March 5, 2024, https://npcobserver.com/wp-content/uploads/2024/03/2024-
+Government-Work-Report_EN.pdf.
+6 Ministry of Industry and Information Technology of the People’s Republic of China, “Implementation opinions of
+the Ministry of Industry and Information Technology and other seven departments on promoting the innovation and
+development of future industries,” January 29, 2024,
+https://www.miit.gov.cn/zwgk/zcwj/wjfb/yj/art/2024/art_ad15b0f08a714fd8888c0e31468b8c54.html.
+7 Ministry of Industry and Information Technology of the People’s Republic of China, “Implementation opinions of
+the Ministry of Industry and Information Technology and other seven departments on promoting the innovation and
+development of future industries.”
+8 Xu, “China’s Focus on New Quality Productive Forces.”
+7
+2025-05-03 23:11:22.891 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ examines the other eight “strategic tasks and priorities” laid out by China in MIC2025
+and China’s progress toward those goals.
+This report does not attempt to determine whether China’s specific mix of policy tools
+was the right one relative to alternate approaches. Instead, it answers the related, but
+different question of whether China has met the goals it set for itself in its industrial
+strategy, regardless of whether the tools it used helped or harmed its mission. In other
+words, this report attempts to answer whether China has, in fact, developed into the
+“strong” industrial power it hoped to become when embarking on this strategy almost a
+decade ago.
+The answer to that question is yes.
+Strategic Industries
+The goal of MIC2025 that has drawn the most attention is to “promote the rapid
+development” of 10 strategic industries. This goal came with ambitious export targets
+for each sector, raising alarm that the world would be engulfed by another wave of
+heavily subsidized, inexpensive Chinese exports, this time of high-value-added, high-
+technology manufactures.
+In 2019, the Rubio office charted the global export share of the United States and China
+in 32 groups of high-value goods, roughly corresponding to the products China targeted
+in MIC2025. That exercise showed that by 2017, China had “increased its global market
+share to nearly match the U.S. in some high-price, high-value products.”9 Updating the
+chart, as this report does below, shows that China’s progress in exporting these goods
+has continued unabated, surpassing the United States and rising from there. Focusing
+on this basket of high-value goods shows that China has had considerable success
+climbing the value chain of global trade. While the country is still a massive producer of
+cheap toys, apparel, and electronics, it is now among the world’s most competitive
+producers of just about everything, from machine tools to dock cranes.
+9 Office of Senator Marco Rubio, “Made in China 2025 and the Future of American Industry.”
+8
+2025-05-03 23:11:22.949 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ Source: UN International Trade Centre, Trade Map, accessed August 28, 2024, https://www.trademap.org/.
+Note: Selected four-digit lines include: 8406 Steam turbines and other vapor turbines; 8408 Compression-ignition
+internal combustion piston engine; 8411 Turbojets, turbopropellers and other gas turbines; 8414 Air or
+vacuum pumps; 8426 Ships' derricks, cranes; 8429 Self-propelled bulldozers, angledozers, graders, levelers,
+scrapers, mechanical shovels, excavators, shovel loaders, tamping machines and roadrollers; 8430 Moving,
+grading, levelling, scraping, excavating, tamping, compacting, extracting or boring machinery; 8456 Machine
+tools for working any material by removal of material, by laser or other light or photon beam, ultrasonic,
+electro-discharge, electro-chemical, electron beam, ionic-beam or plasma arc processes; 8457 Machining
+centers, unit construction machines and transfer machines for working metal; 8458 Lathes for removing metal;
+8459 Machine tools, including way-type unit head machines, for drilling, boring, milling, threading or tapping;
+8460 Machine tools for deburring, sharpening, grinding, honing, lapping, polishing or otherwise finishing
+metal; 8461 Machine tools for planing, shaping, slotting, broaching, gear cutting, gear grinding or gear
+finishing, sawing, cutting-off; 8462 Machine tools, including presses, for working metal; 8479 Machines and
+mechanical appliances not specified or included elsewhere in this chapter; 8486 Machines and apparatus of a
+kind used solely or principally for the manufacture of semiconductor boules or wafers, semiconductor devices,
+electronic integrated circuits or flat panel displays; 8501 Electric motors and generators; 8502 Electric
+generating sets and rotary converters; 8504 Electrical transformers, static converters, and inductors; 8543
+Electrical machines and apparatus, having individual functions; 8601 Rail locomotives powered from an
+external source of electricity or by electric accumulators; 8602 Rail locomotives (excluding those powered from
+an external source of electricity or by accumulators), locomotive tenders; 8603 Self-propelled railway or
+tramway coaches, vans and trucks; 8605 Railway or tramway passenger coaches, luggage vans, post office
+coaches; 8701 Tractors; 8703 Motor cars and other motor vehicles principally designed for the transport of
+persons; 8704 Motor vehicles for the transport of goods; 8705 Special purpose motor vehicles (e.g. breakdown
+lorries, crane lorries, fire fighting vehicles, lorries, mobile workshops and mobile radiological units); 8901
+Cruise ships, excursion boats, ferry-boats, cargo ships, barges and similar vessels for the transport of persons or
+goods; 8902 Fishing vessels; 8904 Tugs and pusher craft; 8905 Light-vessels, fire-floats, dredgers, floating
+cranes, floating docks, floating or submersible drilling or production platforms; 8906 Vessels, incl. warships
+and lifeboats. Headings are shortened for length.
+9
+2025-05-03 23:11:23.005 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ This section provides an overview of China’s progress in all 10 strategic sectors
+identified in MIC2025. As we will see, China has succeeded beyond expectations in a few
+areas, made progress while remaining behind the pack in others, and fallen well short of
+its goals in at least one.
+Even this mixed assessment represents an undeniable victory for the CCP. China led in
+zero of these cutting-edge industries a decade ago. Now it is the undisputed leader in
+several, and it can use this leadership to coerce and control the rest of the world.
+AEROSPACE AND AVIATION
+• China’s passenger-jet champion, COMAC, has notched success in the domestic
+market, but is not yet a viable competitor of the Boeing-Airbus duopoly.
+• China has developed impressive space-launch capabilities and satellite systems,
+but is still weaker than the United States in space.
+• China’s aviation success story is in commercial drones, where it possesses
+dominant market share and has built world-leading companies like DJI.
+MIC2025 targeted aviation and space technology for promotion. The emphasis of
+MIC2025’s aviation agenda was commercial jet aircraft, while the emphases of its space
+agenda were heavy-lift rockets and satellites. This section discusses both. It also
+discusses a third group of technologies—aerial drones and their manned cousins,
+electric vertical take-off and landing aircraft—which were not envisioned by MIC2025,
+but which have emerged in recent years as a driver of China’s economy.
+Recent, high-profile stumbles by Boeing have led to speculation that China could seize
+the opportunity to break into the major leagues in commercial aviation. That is certainly
+what Beijing hopes for, and it has spent decades and billions to build its state-owned
+champion, the Commercial Aircraft Corporation of China (COMAC), into a competitor
+of Boeing and Airbus. This possibility is still far off, as China has struggled to bring its
+commercial aerospace offerings to the industry cutting edge. At present, it is behind not
+only Airbus and Boeing, but also Embraer, the widely respected Brazilian firm that, far
+more than COMAC, deserves the title of understudy to the Big Two.
+COMAC’s most important offering is the C919, a narrow-body passenger jet similar in
+profile to the Airbus A320 and Boeing 737. More than a decade and a half after it was
+announced, the C919 is still in the infant stages of commercial operation. The plane’s
+maiden testing flight was in 2017, and it entered commercial service last year.10 The
+plane first flew internationally this year—to Singapore, the easiest of overseas jaunts.
+The plane appeared at the Singapore Airshow, where COMAC hoped to drum up interest
+with foreign airlines.
+COMAC has racked up an impressive domestic order list for the jet and is expanding its
+manufacturing facilities, but it has yet to attract international clients. The plane has only
+10 Sophie Yu and Brenda Goh, “China’s C919 15-year journey to maiden commercial flight,” Reuters, May 26, 2023,
+https://www.reuters.com/article/idUSL1N37N0EF/.
+10
+2025-05-03 23:11:23.130 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ been approved by Chinese regulators and ordered by Chinese airlines, all of which have
+a vested interest in the success of their champion.
+COMAC will struggle to break the Airbus-Boeing duopoly in large part because the C919
+is still technologically inferior to those companies’ offerings. The plane is heavier than
+the most popular version of the Boeing 737 by roughly a ton and has a shorter range by
+about 1,000 nautical miles.11 Those specifications likely rule COMAC out for airlines
+seeking to increase fuel economy and utilization rates.
+An even more awkward fact for Beijing is that the C919 is not close to being a fully
+“Chinese” plane. Chinese state media admits that 40 percent of the plane’s components
+are imports, and the true figure is likely higher.12 The plane’s electrical system, landing
+gear, flight recorder, flight control and fuel system, weather radar, and tires are all
+foreign-made—in fact, American-made. Most significantly, the C919’s jet engine is the
+product of a joint venture between GE Aviation and France’s Safran Aircraft Engines.
+Beijing has made replacing this engine a priority, clearing roadblocks for the regulatory
+approval of a home-grown turbofan engine by Aero Engine Corporation of China. That
+engine is still in testing and is likely years from commercial operation.
+China has had more success in space. The country is one of three capable of
+independently launching humans into outer space, alongside the United States and
+Russia. Since 2021, China is also the only country with an independent, permanently
+crewed space station. The launch of the Tiangong (“Sky Palace”) represented the
+culmination of a two-decade-long effort to develop China’s manned space program.
+MIC2025 focused on developing China’s rockets and satellites. China’s Long March
+rockets are the backbone of its space-launch capabilities. China has several proven
+medium-lift launch vehicles and one proven heavy-lift launch vehicle of this type,
+though the payload and cost of delivering payload into orbit of these rockets are
+significantly worse than those of American workhorses like SpaceX’s Falcon 9. China is
+also developing two super heavy-lift launch vehicles, the Long March-9 and Long
+March-10, which bear striking resemblance to their American competitors, SpaceX’s
+Starship and NASA’s Space Launch System. China fantasizes that the Long March-9 will
+one day, like Starship, be a reusable rocket, though that capability will likely remain out
+of its reach for many years. The Long March-10, a more realistic blueprint, is slated for
+its first launch in 2027.
+China has increased the tempo of its rocket launches in recent years to bolster its
+impressive constellation of satellites. Georgetown’s Center for Security and Emerging
+Technology (CSET) reports that Beijing has performed 322 orbital launches between
+2013 and 2022, with 64 launches occurring in 2022.13 The United States launched more
+11 Tatenda Karuwa, “The COMAC C919 vs Boeing 737 – An Aircraft Comparison,” Simple Flying, June 13, 2023,
+https://simpleflying.com/comac-c191-boeing-737/.
+12 Michelle Toh, “China’s answer to Boeing and Airbus isn’t as ‘homegrown’ as it seems. Here’s why,” CNN, June 2,
+2023, https://www.cnn.com/2023/06/02/tech/comac-c919-china-aircraft-intl-hnk/index.html.
+13 Corey Crowell and Sam Bresnick, “Defending the Ultimate High Ground: China’s Progress Toward Space Resilience
+and Responsive Launch,” Georgetown University Center for Security and Emerging Technology, July 2023,
+https://cset.georgetown.edu/wp-content/uploads/CSET-Defending-the-Ultimate-High-Ground.pdf.
+11
+2025-05-03 23:11:23.136 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ rockets in both periods, due mainly to a sharp increase in launches beginning in 2019.
+America’s continuing advantage in space is best illustrated by the number of payloads it
+has launched into orbit over the past decade. In 2019, U.S. payloads went vertical, while
+China’s increased only marginally.
+12
+2025-05-03 23:11:23.143 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ Source: Gunter’s, “Orbital Launches of 2023,” https://space.skyrocket.de/doc_chr/lau2023.htm
+Source: Center for Strategic and International Studies, “Space Environment: Payloads Launched by Country,”
+https://aerospace.csis.org/data/space-environment-total-payloads-launched-by-country/
+13
+2025-05-03 23:11:23.206 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ In the past five years, CSET reports that China has launched 419 satellites. Some of
+these satellites are constituents of the BeiDou Navigation Satellite System, which China
+developed in the wake of the 1995-96 Taiwan Strait Crisis to end the “humiliation” of its
+dependence on the U.S. Global Positioning System (GPS).14 That effort has paid
+dividends. BeiDou is now twice the size of GPS, is more accurate—particularly in the
+developing world, and has more features. As Chinese electronics and influence
+proliferate across the world, BeiDou will take on greater significance as a tool of Chinese
+diplomacy and, potentially, espionage.
+The final aviation and aerospace technology worth noting is one that China’s industrial
+planners largely did not foresee a decade ago: aerial drones. The United States
+pioneered the use of drones for military purposes, and the U.S.-led smartphone
+revolution perfected the lightweight sensors and semiconductors that power small
+commercial drones. However, the U.S. commercial drone industry has since been all but
+wiped out by Chinese drone makers like DJI and Autel, which have received heavy state
+subsidies.15 Today, China has captured 90 percent of the U.S. market for commercial
+drones.16 Countless Chinese drones are flying over American skies, collecting—and
+potentially transmitting—treasure troves of data.
+China’s dominance of the commercial drone sector has led to the emergence of what
+Beijing calls the “low-altitude economy.” China envisions a future where armies of
+coordinated drones perform everyday tasks from package delivery to crop dusting to,
+one day, taxi services. A Chinese eVTOL aircraft recently completed its maiden flight in
+Nanjing, which means even the more fantastic applications of this technology may be
+closer to reality than many believe.17
+AGRICULTURAL MACHINERY
+• MIC2025’s prioritization of agricultural machinery reflects the CCP’s—and
+General Secretary Xi’s—preoccupation with food security.
+• China has failed to build internationally competitive manufacturers of
+agricultural machinery. By some metrics, China’s mechanization of agriculture
+has gone into reverse.
+• China remains deeply reliant on foreign sources, including the United States, for
+food, despite a crash program to increase the supply of arable land.
+14 Sarah Sewall, Tyler Vandenberg, and Kaj Malden, “China’s BeiDou: New Dimensions of Great Power Competition,”
+Harvard Kennedy School Belfer Center, February 2023,
+https://www.belfercenter.org/sites/default/files/files/publication/Chinas-BeiDou_V10.pdf.
+15 Cate Cadell, “Drone company DJI obscured ties to Chinese state funding, documents show,” Washington Post,
+February 1, 2022, https://www.washingtonpost.com/national-security/2022/02/01/china-funding-drones-dji-us-
+regulators/
+16 David Lynch, “Chinese subsidies for drones, chips put U.S. at risk, House panel says,” Washington Post, June 26,
+2024, https://www.washingtonpost.com/business/2024/06/25/china-subsidies-house-panel/.
+17 Jennifer Meszaros, “ET9 eVTOL Prototype’s Maiden Flight Signals Nanjing’s Low-Altitude Progress,” APAC
+Aviation Insights, April 27, 2024, https://medium.com/apac-aviation-insights/evitechs-successful-maiden-flight-
+marks-advancement-in-nanjing-low-altitude-development-5fa28ed3f50f.
+14
+2025-05-03 23:11:23.275 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ China’s prioritization of agricultural machinery may seem odd in a list dominated by
+cutting-edge technology like semiconductors and airplanes. To make sense of it, one
+must realize the unique vulnerability of China in agriculture. Simply put, China does not
+make enough food. Beijing knows that self-reliance in agriculture is critical to breaking
+free from the West, particularly if it hopes to absorb Taiwan by force.18 The evidence
+shows that China’s insecurity in this area is growing worse, not better, despite feverish
+efforts to reclaim farmland, mechanize agriculture, and grow food.
+China has run a trade deficit in agriculture every year for at least two decades. That
+deficit has ballooned since 2015, growing from $45 billion to $135 billion in 2023.19
+China maintains vast stockpiles of staples like rice and grain to feed its population, but
+relies heavily on imports to feed livestock that meet the Chinese peoples’ demand for
+meat.
+China runs especially large deficits in soybeans, which it imports mainly from Brazil and
+the United States to use as feedstock.20 But its list of dependencies is long,
+encompassing beef (imported mainly from Brazil, Argentina, Australia, and the United
+States), corn (imported from Brazil and the United States), and dairy (imported from
+New Zealand). As this list demonstrates, many of China’s most acute needs come from
+the United States and allied countries, which poses a strategic challenge for Beijing.
+Xi, a leader old enough to remember the terrible famine that accompanied the CCP’s
+Great Leap Forward, has spoken on multiple occasions about the importance of food
+security. He has warned that failure to address this problem will leave China at the
+mercy of foreign powers. “We will fall under others’ control if we can’t hold our rice bowl
+steady,” he has said.21
+China has thus started a crash program of land conversion to increase the amount of
+arable land for agriculture, reversing an earlier policy of reforestation. In some parts of
+the country, planting of trees is forbidden, and recently planted trees—including trees
+that grow valuable commodities like fruit—are being uprooted.22 Authorities have
+reclaimed more than 400,000 acres of land since 2021 for corn and soybean production.
+But Chinese official statistics show this campaign has yet to right the ship. The amount
+of cultivated land in China fell from 333 million acres in 2015 to 315 million in 2022,
+close to the level that Beijing believes is a bare minimum for food security.23
+18 Edward Luttwak, “The clue China is preparing for war: Xi is laying the groundwork while the West looks away,”
+UnHerd, July 19, 2023, https://unherd.com/2023/07/the-clue-china-is-preparing-for-war/.
+19 Xin Ou, “Trade balance of agricultural product imports and exports in China from 2005 to 2023,” Statista, accessed
+March 1, 2024, https://www.statista.com/statistics/1301293/china-balance-of-trade-in-agricultural-products/.
+20 UN International Trade Centre, “List of supplying markets for a product imported by China, Product: 1201 Soya
+beans, whether or not broken,” accessed March 1, 2024, https://www.trademap.org/.
+21 Sun Yu, “China expands farmland in bid to cut foreign food reliance,” Financial Times, August 13, 2023,
+https://www.ft.com/content/6702e861-24c1-4383-be1c-bb0ba3b09c8a.
+22 Frederic Lemaitre, “China imposes deforestation in the pursuit of food independence,” Le Monde, June 27, 2023,
+https://www.lemonde.fr/en/environment/article/2023/06/27/china-imposes-deforestation-in-the-pursuit-of-food-
+independence_6038140_114.html.
+23 National Bureau of Statistics of China, “China Statistical Yearbook 2023: 8-20 Area of Cultivated Land by Region,”
+accessed March 1, 2024, https://www.stats.gov.cn/sj/ndsj/2023/indexeh.htm.
+15
+2025-05-03 23:11:23.314 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ China’s mechanization of agriculture has also fared poorly. Despite great advances in
+manufacturing, China has failed to raise a manufacturer of agricultural equipment that
+can compete with the likes of John Deere. In fact, last year, China’s agriculture ministry
+opened investigations into machinery subsidy fraud, alleging that the $3 billion in funds
+Beijing had allocated to help China’s farmers mechanize was stolen or wasted on shoddy
+equipment.24 Earlier this year, Beijing announced a further corruption probe—into
+China’s agriculture minister, Tang Renjian.25 While China has a trade surplus in tractors
+and related parts, it is nowhere near the size of its surplus in other automotive goods.
+China’s major export market for tractors is Russia, a market that has quadrupled since
+Russia’s war in Ukraine; this speaks to the unique circumstances of Russia’s isolation, as
+well as the dual-use nature of heavy equipment, more than any commercial success on
+China’s part.26
+Source: National Bureau of Statistics of China, “China Statistical Yearbook 2023: 12–4 Major Agricultural Machinery
+at Year-end,” accessed June 21, 2024, https://www.stats.gov.cn/sj/ndsj/2023/indexeh.htm.
+24 Cyril Ip, “‘Cash cow’ subsidies: China targets fraud in farm machinery sales scheme,” South China Morning Post,
+December 4, 2023, https://www.scmp.com/news/chia/politics/article/3243671/cash-cow-subsidies-china-targets-
+fraud-farm-machinery-sales-scheme.
+25 Colleen Howe, “China probes agriculture minister for suspected disciplinary violations,” Reuters, May 18, 2024,
+https://www.reuters.com/world/china/china-probes-agriculture-minister-suspected-disciplinary-violations-2024-
+05-18/.
+26 UN International Trade Centre, “List of partner markets for a product commercialized by China, Product: 870194
+Tractors, of an engine power >75 kW but <=130 kW,” accessed March 1, 2024, https://www.trademap.org/.
+16
+2025-05-03 23:11:23.375 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ Most strikingly, official Chinese statistics of machinery power and number of tractors of
+all sizes employed in agriculture have declined since MIC2025 began.27 China’s
+consumption of chemical fertilizer has also declined.28
+These facts indicate that China’s food security problem is growing and represents a
+persistent dependency on the West, especially the United States. China cannot yet claim
+to hold its rice bowl steady, as Xi so clearly desires it to.
+BIOTECHNOLOGY
+• Chinese biotech companies are now producing novel drugs and therapies in small
+numbers, though they remain rare.
+• China still relies on talent, technology, and capital from foreign biotechnology
+and pharmaceutical companies.
+• China has built internationally successful genomics companies with strong ties to
+U.S. and other Western pharmaceutical companies and research institutions.
+China’s vast chemical industry has made it a world leader in the production of low-end
+active pharmaceutical ingredients (APIs), which are used in generic drugs. By some
+estimates, India and China together produce between 60 and 70 percent of generic
+drugs for the U.S. market—and India is deeply reliant on China for APIs, meaning
+China’s role is even larger than topline statistics indicate.29
+But Beijing’s ambitions in biotech are far bigger than generic drugs. The CCP wants
+China to become a “biotech superpower” with companies capable of competing with
+Western pharmaceutical multinationals on the frontier of medicine.30
+Not long ago, China’s biotech sector was disparaged as far behind, mostly producing
+copy-cat drugs and therapies that built on research performed by other countries. There
+are signs that reputation is outdated, that China is positioned to transition from a “fast
+follower” to a biotech leader in the years ahead. However, despite considerable
+investment, China still struggles to produce novel drugs and therapies and remains
+deeply reliant on Western resources in this sector.
+The Australian Strategic Policy Institute’s (ASPI) Critical Technology Tracker finds that
+China leads in research of four out of seven biotech categories: synthetic biology,
+biological manufacturing, genome and genetic sequencing and analysis, and novel
+27 National Bureau of Statistics of China, “China Statistical Yearbook 2023, 12-4 Major Agricultural Machinery at
+Year-end,” accessed March 1, 2024, https://www.stats.gov.cn/sj/ndsj/2023/indexeh.htm.
+28 National Bureau of Statistics of China, “China Statistical Yearbook 2023, 12-5 Irrigated Area of Cultivated Land and
+Consumption of Chemical Fertilizers,” accessed March 1, 2024, https://www.stats.gov.cn/sj/ndsj/2023/indexeh.htm.
+29 Mary Van Beusekom, “Cost of China-made drug ingredients more than doubled during the pandemic,” University
+of Minnesota Center for Infectious Disease Research and Policy, June 21, 2024,
+https://www.cidrap.umn.edu/resilient-drug-supply/cost-china-made-drug-ingredients-more-doubled-during-
+pandemic.
+30 Anna Puglisi and Chryssa Rask, “China, Biotechnology, and BGI: How China’s Hybrid Economy Skews
+Competition,” Georgetown University Center for Security and Emerging Technology, May 2024,
+https://cset.georgetown.edu/publication/china-biotechnology-and-bgi/.
+17
+2025-05-03 23:11:23.448 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ antibiotics and analysis.31 In one of those categories (synthetic biology), ASPI judges
+there is a “high” risk of China monopolizing that technology. By contrast, the United
+States leads in research in just three areas: vaccines and medical countermeasures,
+genetic engineering, and nuclear medicine and radiotherapy.
+China’s biotech industry has benefited from an influx of foreign capital, technology, and
+talent. In 2021, $2 billion in venture capital and private equity flooded into the sector.32
+Most of the Western multinationals have major footprints in the country, often entering
+joint ventures with Chinese firms in the hunt for new drugs. Earlier this year, Fierce
+Pharma reported that “the CEOs of AstraZeneca, Bayer, Bristol Myers Squibb, GSK,
+Novartis, Pfizer, and Takeda came together in Beijing to show the companies’ continued
+interest in China” at a development forum.33 Perhaps most important of all, China’s
+indigenous firms rely on so-called “sea turtles,” or Chinese nationals who study in the
+West and work at top pharmaceutical firms before returning to the mainland to run
+those firms’ competitors.34
+These efforts are starting to bear fruit, although China remains behind the pack in drug
+discovery. Chinese pharmaceutical companies have started to produce “first in class”
+drugs in small numbers. These drugs employ novel mechanisms of action to treat
+medical conditions, and are thus viewed as a reliable sign of true innovation. However,
+they are still rare. One Chinese drug regulator lamented in 2021 that “original new
+drugs” were “as rare as morning stars.”35
+China has had more success in the field of genomics. Its national champion is the now
+partially blacklisted BGI Group, which began as a research institute of the (also now
+blacklisted) Chinese Academy of Sciences and runs the country’s gene bank.36 BGI and
+its subsidiaries, in particular MGI Tech and Complete Genomics, are significant
+producers of gene-sequencing instruments, equipment, and reagents, as well as gene-
+sequencing services. MGI Tech has undergone a significant commercial expansion. The
+company increased its domestic market share from 13 percent to 39 percent in the three
+years after the Covid-19 pandemic, in part due to government purchasing policies that
+privileged domestic firms. It also captured more than a five percent market share
+globally, allowing it to now earn more than half of its revenue overseas. Before federal
+restrictions fell in place, MGI Tech had even received research grants from the U.S.
+military, a disturbing fact given BGI Group’s close ties to the People’s Liberation Army
+31 Jamie Gaida, Jennifer Wong Leung, Stephen Robin, & Danielle Cave, “ASPI’s Critical Technology Tracker: The
+global race for future power,” Australian Strategic Policy Initiative, 2023, https://ad-aspi.s3.ap-southeast-
+2.amazonaws.com/2023-03/ASPIs%20Critical%20Technology%20Tracker_0.pdf.
+32Anna Nishino, “Pharmacy of the world: China’s quest to be the No. 1 drugmaker,” Nikkei Asia Review, December
+23, 2021, https://asia.nikkei.com/static/vdata/infographics/chinavaccine-2/.
+33 Angus Liu, “Big Pharma CEOs gather in Beijing to show continued interest in China, offer policy advice,” Fierce
+Pharma, March 26, 2024, https://www.fiercepharma.com/pharma/big-pharma-ceos-gather-beijing-continued-
+interest-china-policy-advice-local-drug-industry.
+34 Nishino, “Pharmacy of the world.”
+35 Bloomberg News, “China’s $220 Billion Biotech Initiative Is Struggling to Take Off,” May 15, 2023,
+https://www.bloomberg.com/news/articles/2023-05-15/china-biotech-stumbles-despite-220-billion-investment.
+36 Philip Wang and Kathleen Magramo, “US adds Chinese genetics firms to trade blacklist over surveillance
+allegations,” CNN, March 2, 2023, https://www.cnn.com/2023/03/02/business/us-blacklist-bgi-chinese-genetics-
+surveillance-companies-intl-hnk/index.html.
+18
+2025-05-03 23:11:23.515 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ (PLA). The company has reportedly performed genetic collection and analysis of foreign
+persons and ethnic minorities within China on behalf of the Chinese government.37
+Another Chinese biotech player is WuXi AppTec, a contract research and manufacturing
+company that provides a host of services to its clients. WuXi has a client base and
+manufacturing facilities in the United States, boasting that its customers include all of
+the top 20 pharmaceutical companies.38 An industry association of American biotech
+companies found that 79 percent had at least one contract or product agreement with a
+Chinese manufacturer; the “vast majority” were with WuXi or a subsidiary.39 WuXi’s
+presence in the American market risks exposing U.S. intellectual property to theft.
+Earlier this year, a U.S. intelligence report claimed that the company transferred the
+data of an American client to China without its consent.40
+Suspicion of China’s biotech companies likely will worsen the outlook for these
+companies in the years ahead, which will test the strength of its research base and native
+talent. Given its dependence on Western talent, technology, and capital, China’s biotech
+industry may not be able to rise to the challenge.
+ELECTRIC VEHICLES
+• China is the world leader in EV technology and production.
+• China’s growing export of automobiles of all types threatens a second “China
+Shock” that could degrade auto industries elsewhere in the world.
+• China’s EV companies are locked in a brutal price war that will winnow the field
+and battle-harden the most competitive Chinese firms in the years ahead.
+Perhaps no technology better exemplifies China’s rise in manufacturing than electric
+vehicles (EVs). The daily news is filled with articles about the threat that Chinese EVs
+pose to Western automakers. These EVs are cheap. Some entry-level models, such as the
+BYD Seagull hatchback, sell for as little as $10,000. But it would be a mistake to view
+Chinese EVs merely as cheap. Thanks to sustained investment and focus on battery
+technology, drivetrains, and other fundamentals, Chinese automakers are producing
+EVs of impressive quality, with strong range, innovative features, and luxury stylings.
+China is a force to reckon with in EVs. The question now is how much damage it will do
+to the U.S. auto industry.
+China did not start from zero on autos or even EVs. When MIC2025 was announced, the
+country already had a large auto industry, dominated by China’s Big Four state-owned
+37 Kirsty Needham and Clare Baldwin, “China’s gene giant harvests data from millions of women,” Reuters, July 7,
+2021, https://www.reuters.com/investigates/special-report/health-china-bgi-dna/.
+38 WuXi Biologics (Cayman) Inc., “Interim Report 2023,” https://www.wuxibiologics.com/wp-
+content/uploads/2023-Interim-Report.pdf.
+39 Karen Freifeld, “US bill to restrict WuXi AppTec, Chinese biotechs revised to give more time to cut ties,” Reuters,
+May 10, 2024, https://www.reuters.com/technology/us-bill-restrict-wuxi-apptec-other-chinese-biotech-cos-revised-
+give-more-time-2024-05-10/.
+40 Angus Liu, “In new letter to Defense Department, WuXi AppTec refutes claim of secret data transfer,” Fierce
+Pharma, May 13, 2024, https://www.fiercepharma.com/pharma/would-never-approve-does-not-condone-wuxi-
+apptec-refutes-claim-secret-ip-transfer-letter-dod.
+19
+2025-05-03 23:11:23.612 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ car companies: Shanghai Automotive Industry Corporation (SAIC), Dongfeng Motor,
+FAW Group, and Changan Automobile. These companies mostly served the domestic
+market, though they had a modest export business to rogue nations such as Iran and
+Venezuela.
+Zeyi Yang of the MIT Technology Review credits one man, Wan Gang, for jumpstarting
+China’s EV industry.41 Wan was an Audi engineer who returned home and, in 2007, was
+named minister of science and technology. Wan knew that China would struggle to
+catch up with Western automakers in internal-combustion engines and hybrids, so he
+set China on the path to “leap ahead” by developing EV technology. Subsequent Chinese
+policy, including MIC2025, reflected this decision. Chinese authorities began
+subsidizing EV purchases and production, waiving expensive license-plate registration
+fees for EV buyers, and slashing red tape for factory construction. The Center for
+Strategic and International Studies (CSIS) has calculated that China’s subsidies to its EV
+industry exceeded $60 billion in the 2009-2017 timeframe, more than the United States
+devoted to semiconductors in the CHIPS Act.42
+41 Zeyi Yang, “How did China come to dominate the world of electric cars?,” MIT Technology Review, February 21,
+2023, https://www.technologyreview.com/2023/02/21/1068880/how-did-china-dominate-electric-cars-policy/.
+42 Luke Patey, “The Great EV Glut,” The Wire China, May 19, 2024, https://www.thewirechina.com/2024/05/19/the-
+great-ev-glut-european-union-electric-vehicle-china-chinese-electric-vehicles-evs-eu/.
+20
+2025-05-03 23:11:23.620 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ Source: UN International Trade Centre, Trade Map, accessed August 28, 2024, https://www.trademap.org/.
+Note: Selected six-digit line: 870380 Motor cars and other motor vehicles principally designed for the transport of
+<10 persons, incl. station wagons and racing cars, with only electric motor for propulsion; Heading is shortened for
+length.
+21
+2025-05-03 23:11:23.661 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ Source: UN International Trade Centre, Trade Map, accessed August 28, 2024, https://www.trademap.org/.
+Note: Selected six-digit lines include: 870322 Motor cars and other motor vehicles principally designed for the
+transport of <10 persons, incl. station wagons and racing cars, with only spark-ignition internal combustion
+reciprocating piston engine of a cylinder capacity > 1.000 cm³ but <= 1.500 cm³; 870323 Motor cars and other
+motor vehicles principally designed for the transport of <10 persons, incl. station wagons and racing cars, with only
+spark-ignition internal combustion reciprocating piston engine of a cylinder capacity > 1.500 cm³ but <= 3.000 cm³;
+and 870324 Motor cars and other motor vehicles principally designed for the transport of <10 persons, incl. station
+wagons and racing cars, with only spark-ignition internal combustion reciprocating piston engine of a cylinder
+capacity > 3.000 cm³; Headings are shortened for length.
+China’s intense focus on EVs led to the emergence of a new crop of EV and battery
+manufacturers. The proliferation of Chinese EV companies is due in part to policy
+support and in part to the relative simplicity of EV technology—EVs have far fewer parts
+and far more prepackaged parts than do internal-combustion engine vehicles. Whatever
+the exact cause, these startup companies proved far more innovative and successful than
+the state-owned enterprises that came before.
+The outstanding case is BYD, a Shenzhen-based company founded as a manufacturer of
+lithium-ion batteries for cell phones. Before BYD received consistent support from the
+state, it benefited from an infusion of American capital: Warren Buffet’s Berkshire
+Hathaway invested $230 million in the company in 2008, the same year that Tesla
+delivered its first vehicle, the Roadster.43 BYD rocketed to the head of the pack in
+43 Arjun Kharpal and Evelyn Chang, “Musk once laughed off BYD as a threat. Now the Chinese giant has taken Tesla’s
+EV crown — here’s how,” CNBC, January 4, 2024, https://www.cnbc.com/2024/01/05/how-byd-grew-from-a-
+phone-battery-maker-to-ev-giant-taking-on-tesla.html.
+22
+2025-05-03 23:11:23.742 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ Chinese EVs due to its innovative battery technology (batteries make up approximately
+40 percent of the cost of an EV). BYD’s history as a battery maker allowed it to create a
+lithium-ion phosphate battery, dubbed the Blade, that was thinner, cheaper, and safer
+than competitors on the market. This innovation in turn allowed BYD to slash prices on
+its vehicles, contributing to booming sales at home and abroad. In the final quarter of
+2023, BYD dethroned Tesla in new EV sales, though it has since fallen back to second
+place.44 Its market capitalization is currently higher than that of Ford or GM.45
+MIC2025 set an ambitious goal of 3 million domestically made EV sales per year by
+2025. China shattered that goal. In 2014, roughly 75,000 EVs were sold in China.46 In
+2023, 6 million EVs were sold at home, plus an additional 2.8 million plug-in hybrids.47
+Incredibly, China’s supply has far outstripped substantial domestic demand. It exported
+nearly five million cars of all kinds last year, dethroning Japan as the world’s largest
+auto exporter. Of those, more than one million were EVs, which have begun piling up in
+European ports like Rotterdam and Amsterdam-Bruges.48
+China’s auto industry threatens a second China Shock that could decimate industry in
+the developed world. Already, countries are adopting a variety of strategies to mitigate
+this risk and remain competitive. The Biden Administration has pegged its hopes on the
+Inflation Reduction Act, with the unintended consequences of directing subsidies to
+Chinese battery and EV companies and miring U.S. automakers deeper in a segment of
+the market undergoing a brutal price war. The Biden Administration has also imposed
+stiff tariffs on EVs that are made in China while ignoring the threat posed by Chinese
+gas-powered vehicles and EVs that are made in China’s expanding network of transplant
+factories. Europe is also contemplating tariffs, which, in a Faustian bargain, it may use
+to encourage greater investment by Chinese automakers on European soil.
+As the developed world struggles to respond to China’s EV dominance, China itself is
+undergoing a ferocious winnowing. There are hundreds of Chinese EV companies at
+present, all trapped in a war of price and production as government subsidies begin to
+phase out. Many, if not most of these companies will not survive the threshing that is
+underway. The few companies that do, however, will be battle-hardened and ready to
+take on the rest of the world. As Lan Xiaohuan of Fudan University explains, “it is
+exactly in this stage of brutal competition that the industry is developing quickly,
+numerous small firms rise and fall fast, and resources and technologies are quickly
+concentrated in the hands of leading companies.”49 Automakers in the developed world
+44 Laura He, “A brutal elimination round is reshaping the world’s biggest market for electric cars,” CNN, April 25,
+2024, https://www.cnn.com/2024/04/24/business/china-ev-industry-competition-analysis-intl-hnk/index.html.
+45 Selina Cheng, River Davis, andRaffaele Huang, “Having Overtaken Tesla, BYD Is Running Into Problems
+Overseas,” The Wall Street Journal, March 12, 2024, https://www.wsj.com/business/autos/having-overtaken-tesla-
+byd-is-running-into-problems-overseas-7d883f02
+46 Report Buyer, “China Electric Vehicle Industry Report, 2014-2015,” PR Newswire, September 14, 2015,
+https://www.prnewswire.com/news-releases/china-electric-vehicle-industry-report-2014-2015-300142619.html.
+47 CK Tan, “China’s 2023 auto sales grow 12% on overseas demand for EVs,” Nikkei Asia Review, January 11, 2024,
+https://asia.nikkei.com/Business/Automobiles/China-s-2023-auto-sales-grow-12-on-overseas-demand-for-EVs.
+48 Matko Rak, “European ports filling up with Chinese autos,” World Cargo News, May 2, 2024,
+https://www.worldcargonews.com/ports-terminals/2024/05/european-ports-filling-up-with-chinese-autos/.
+49 Zichen Wang, “Lan Xiaohuan on China’s Local Government Competition and Overcapacity,” Pekingnology, March
+30, 2024, https://www.pekingnology.com/p/lan-xiaohuan-on-chinas-local-government.
+23
+2025-05-03 23:11:23.791 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ will need to think carefully about how best to compete in an EV world increasingly
+dominated by China.
+ENERGY AND POWER GENERATION
+• China has built a commanding position in solar-energy technology, with a share
+of the global supply chain exceeding 80 percent.
+• China is the technology leader in nuclear power, although construction at home
+and abroad is proceeding at a slower pace than desired.
+• China is developing international standards and bidding aggressively on
+ambitious overseas projects for the electricity grid.
+China is now the world’s dominant power in energy and power generation equipment.
+This may seem over-bold, but a brief review of the facts leaves little room for doubt.
+The gulf between China and the rest of the world is most obvious in solar energy, one of
+the “new three” technologies that China is prioritizing, along with batteries and EVs.50
+The U.S. Department of Energy’s deeply researched report on the world’s solar
+photovoltaic supply chain makes for sobering reading on this score. According to that
+report, China’s share of the global supply chain exceeds 80 percent. In 2021, China had
+70 percent of the world’s production capacity for metallurgical grade silicon, 98 percent
+of ingot capacity, 97 percent of wafer capacity, 81 percent of solar cell capacity, and 77
+percent of solar module capacity.51
+This dominance, according to the U.S. Department of Labor, means that nearly half of
+the globe’s polysilicon supply is sourced in China’s Xinjiang Uyghur Autonomous
+Region, where it is mined and purified with Uyghur slave labor. The rapid scaling of
+solar production worldwide is not expected to change that fact. Per the Department of
+Energy report, “By the end of 2024, global manufacturing capacity for PV modules will
+increase another 40% to 1,100 GW, with China maintaining an 80-95% share
+(depending on the manufacturing segment) of the supply chain.”52
+By contrast, the United States produced zero ingots, wafers, or cells last year. That may
+change this year, when a Georgia factory capable of making ingots, wafers, and cells
+opens—but even then, American production will be a rounding error compared to
+production in China.
+50 Guangming Daily, “Looking at the resilience and momentum of foreign trade from the perspective of the “internet
+of things,” August 10, 2023, https://www.gov.cn/yaowen/liebiao/202308/content_6897581.htm.
+51 Paul Basore and David Feldman, “Solar Photovoltaics: Supply Chain Deep Dive Assessment,” U.S. Department of
+Energy, February 24, 2022, https://www.energy.gov/sites/default/files/2022-
+02/Solar%20Energy%20Supply%20Chain%20Report%20-%20Final.pdf.
+52 Basore and Feldman, “Solar Photovoltaics: Supply Chain Deep Dive Assessment.”
+24
+2025-05-03 23:11:23.824 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ Source: International Energy Agency, “Solar PV Global Supply Chains,” accessed June 20, 2024,
+https://www.iea.org/reports/solar-pv-global-supply-chains/executive-summary./
+As China ramps up production, it has flooded the world with cheap solar panels. Five
+percent of China’s gargantuan trade surplus in 2023 came from solar cells alone.53
+Meanwhile, prices of solar cells are in freefall, declining by half in 2023, with further
+price cuts expected. Chinese solar panels are so cheap they are being used as fencing and
+paving materials in some parts of Europe. This wave of cheap production has also
+crushed the solar industry throughout the rest of the world.
+China has also snatched the lead from the United States in nuclear technology, although
+its dominance is not nearly as complete as in solar. As with other fields, China
+established its footing in nuclear through joint ventures with Western companies,
+notably Westinghouse (U.S.) and Areva (France). The condition for market access in
+China was technology transfer to China’s two nuclear state-owned enterprises, China
+National Nuclear Corporation and China General Nuclear Corporation. These firms then
+collaborated on a design for their own third-generation nuclear reactor, heavily copied
+from foreign sources, and climbed the value chain in components, construction, and
+operation. As a result, China is now in an exclusive club of countries that have designed
+53 Author calculation from UN International Trade Centre, “Bilateral trade between China and World, Product:
+854143 Photovoltaic cells assembled in modules or made up into panels,” “Bilateral trade between China and World,
+Product: 854142 Photovoltaic cells not assembled in modules or made up into panels,” and “Bilateral trade between
+China and World, Product: TOTAL All products,” accessed March 1, 2024, https://www.trademap.org/.
+25
+2025-05-03 23:11:23.891 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ their own nuclear reactors and have the capacity to construct them using entirely
+domestic firms.
+China has also pushed to the frontier of nuclear technology—with vital assistance from
+the U.S. government. Late last year, a consortium that includes the China National
+Nuclear Corporation began commercial operations at the world’s first fourth-generation
+nuclear reactor, located in Shandong Province south of Beijing.54 Fourth-generation
+reactors are designed with passive safety systems to render catastrophic accidents
+impossible, while increasing energy yield and flexibility of fuel types. Chinese regulators
+also greenlit the country’s first molten salt experimental reactor last year, which uses
+thorium for fuel instead of uranium.55 The United States built a test reactor of this type
+in the 1960s, but subsequently abandoned the effort. During the Obama Administration,
+Oak Ridge National Laboratory signed a cooperation agreement with the Chinese
+Academy of Sciences that transferred the plans for a thorium reactor to China.56 “The
+U.S. government seems to welcome Chinese scientists into Department of Energy labs
+with open arms,” one physicist noted.57
+Despite these advances, China’s nuclear expansion has fallen short of the CCP’s
+ambitious goals. The country did not meet its target of 85 GW of installed capacity by
+2020 and is still just shy of that target.58 It has also struggled to export reactors
+overseas, despite its grand vision of building a “Nuclear Belt and Road” of 30 overseas
+reactors by 2030. So far, Pakistan is the only country with Chinese nuclear reactors.
+Finally, China’s investments in power generation equipment are also bearing fruit. State
+Grid is China’s largest state-owned utility. It is the third-largest company in the world by
+revenue, after Walmart and Saudi Aramco, and has more than a million employees.
+State Grid has overseen construction of more than 30 ultra-high voltage (UHV)
+transmission lines to connect inland power plants with coastal population centers, all
+part of an effort to create a “super grid” that connects the entire country.59 The largest of
+these projects, a collaboration between State Grid and a subsidiary of Japan’s Hitachi,
+stretches almost the length of the country, from northern Xinjiang to the central
+seaboard. It transmits enough power for 12 million people.60
+54 Colleen Howe, “China starts up world’s first fourth-generational nuclear reactor,” Reuters, December 8, 2023,
+https://www.reuters.com/world/china/china-starts-up-worlds-first-fourth-generation-nuclear-reactor-2023-12-06/
+55 Nuclear Engineering International, “China’s experimental molten salt reactor receives license,” June 20, 2023,
+https://www.neimagazine.com/news/newschinas-experimental-molten-salt-reactor-receives-licence-10952226.
+56 David Lague and Charlie Zhu, “Special Report: The U.S. government lab behind China’s nuclear power push,”
+Reuters, December 20, 2013, https://www.reuters.com/article/idUSBRE9BJ0RN/.
+57 Lague and Zhu, “Special Report.”
+58 Howe, “China starts up world’s first fourth-generation nuclear reactor.”
+59 Ye Ruolin and Yuan Ye, “Untangling the Crossed Wires of China’s ‘Super Grid,’” Sixth Tone, March 9, 2021,
+https://www.sixthtone.com/news/1006932.
+60 Hitachi Energy, “The world’s most powerful transmission system facilitated by Hitachi ABB Power Grids
+Technologies,” December 7, 2020, https://www.hitachienergy.com/us/en/news/features/2020/07/the-world-s-
+most-powerful-transmis-sion-system-facilitated-by-hi.
+26
+2025-05-03 23:11:23.959 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ State Grid is investing heavily in transmission infrastructure, at home and overseas. It
+plans to invest $70 billion in the Chinese grid in 2024.61 It is also “going out” to build
+overseas, with business in 51 countries in 2021, including the construction and
+operation of thousands of miles of transmission lines in Brazil.62
+An important goal of MIC2025’s overseas project was to “establish a China-led
+international standard system” for UHV equipment. China has made progress toward
+creating such a system. From 2019 to 2022, the International Electrotechnical
+Commission (IEC) was led by Yinbiao Shu, a former president of State Grid and
+chairman of China Huaneng Group, another state-owned utility.63 The number of IEC
+executive positions held by China increased by 100 percent between 2011 and 2021—
+although China still lags other powers, such as the United States, Germany, and Japan.64
+Despite the immense scale of State Grid’s operations and efforts, China’s power grid is
+still seen as insufficient to meet the country’s voracious demand for energy. Many of the
+UHV transmission lines are operating well under capacity, or else are delayed.65 State
+Grid is a long way off from achieving its goal of a national “super grid.”
+What’s not in doubt is that China is a world leader in energy of virtually all kinds, and is
+the dominant producer of solar in particular.
+HIGH-SPEED RAIL
+• China has by far the largest high-speed rail network in the world, but its
+infrastructure building spree has come at a staggering cost.
+• China uses high-speed rail as a diplomatic tool to integrate foreign countries into
+the Belt and Road network and develop export markets.
+• The export performance of China’s state-owned rail companies is
+underwhelming, and China has failed to meet the export targets it set in
+MIC2025.
+China has laid more high-speed rail than the rest of the world combined, despite the
+country’s late start at developing such a network. Today, China’s high-speed rail
+stretches 28,000 miles, twice its length a decade ago, when MIC2025 was announced.66
+China developed its rail industry using the time-tested strategy of forced joint ventures
+and technology transfer. China invited foreign rolling-stock companies to participate in
+61 Bloomberg News, “China’s State Grid to Keep Spending High to Match Renewables,” January 14, 2024,
+https://www.bloomberg.com/news/articles/2024-01-15/china-s-state-grid-to-keep-spending-high-to-match-
+renewables.
+62 People’s Republic of China Belt and Road Portal, “Light up the World, Link with the Globe: State Grid Corporation
+of China on the Belt and Road,” accessed August 29, 2024, https://eng.yidaiyilu.gov.cn/z/230718-1/index.shtml.
+63 Yinbiao Shu, Biography, International Electrochemical Commission, accessed August 29, 2024,
+https://www.iec.ch/basecamp/yinbiao-shu.
+64 The U.S.-China Business Council, “USCBC Comments on China’s Influence in International Standards Setting for
+Emerging Technologies,” December 6, 2021, https://www.uschina.org/advocacy/regulatory-comments-on-
+china/uscbc-comments-china%E2%80%99s-influence-international-standards-setting-emerging-technologies.
+65 Ye Ruolin and Yuan Ye, “Untangling the Crossed Wires of China’s ‘Super Grid.’”
+66 Xinhua, “China’s operating high-speed railway hits 45,000 km,” January 9, 2024,
+https://english.news.cn/20240109/28b8075c73384fa894e90afd1b8d0dbc/c.html.
+27
+2025-05-03 23:11:24.034 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ the construction of its high-speed rail network, promising massive potential profits for
+an equally massive infrastructure buildup. As a condition of market entry, China forced
+these companies to enter joint ventures with Chinese firms, leading to the diffusion of
+knowledge and technology. China’s supposedly indigenous high-speed trains bear
+striking resemblance to the trains that foreign companies like Canada’s Bombardier and
+France’s Alstom brought to China years ago, as researcher Kyle Chan has pointed out.67
+As in so many areas, China copied and stole from the best, then kicked out its foreign
+competition.
+During the Global Financial Crisis, China used high-speed rail as a form of debt-fueled
+stimulus—what one observer labeled “Railway Keynesianism.”68 Construction of high-
+speed rail lines employed hundreds of thousands of workers laid off from factories
+during the economic slump. It also supported demand for cement and steel, preventing
+a collapse of those vital commodities’ sectors. In return, Beijing aimed to connect the
+country, spurring economic development in and projecting greater control over small
+towns, many of which got high-speed rail stations. China’s two-decade-long rail blitz
+recalls the United States’ nation-building during the 19th century, which included
+construction of the Transcontinental Railroad and many smaller lines. The difference, of
+course, is that China’s high-speed rail network is constructed and operated almost
+entirely by state-owned enterprises, whereas the U.S. infrastructure buildout was
+conducted mainly by private companies, albeit with considerable public support.
+Creating the world’s largest and fastest high-speed rail network has come at a staggering
+cost to the Chinese government. In late 2022, China State Railway Group reported
+holding more than $890 billion in debt—an amount equal to five percent of China’s GDP
+at the time, per Nikkei Asia Review.69 Municipal governments have taken on even more
+debt to finance high-speed rail projects. This massive debt compounded with falling
+ridership during the pandemic to force a change. Beijing has sharply raised fares and
+ordered some local governments to cease spending on infrastructure, although it still
+envisions increasing the size of the network by thousands of miles this decade.70 Clearly,
+Beijing views high-speed rail as a prestige project and public good essential for
+economic development and consolidation of control over the nation. It is willing to
+leverage massively to achieve those goals.
+Another prominent player in Chinese high-speed rail is CRRC, a state-owned rolling
+stock manufacturer that is now the world’s largest. CRRC’s products may be imitative
+rather than innovative, but it is able to offer rolling stock at a significant discount due to
+subsidies it receives from the Chinese government. Today, CRRC supplies virtually all
+trains to the Chinese market, the world’s largest.
+67 Kyle Chan, “How China uses foreign firms to turbocharge its industry,” High Capacity, March 29, 2024,
+https://www.high-capacity.com/p/how-china-uses-foreign-firms-to-turbocharge.
+68 Dhaval Desai, “China’s high-speed railways plunge from high profits into a debt trap,” Observer Research
+Foundation, June 23, 2021, https://www.orfonline.org/expert-speak/chinas-high-speed-railways-plunge-from-high-
+profits-into-a-debt-trap.
+69 Shin Watanabe, “China Railway expands high-speed network as profits take back seat,” Nikkei Asia Review,
+January 29, 2023, https://asia.nikkei.com/Business/Transportation/China-Railway-expands-high-speed-network-
+as-profits-take-back-seat.
+70 Keith Bradsher, “China Is Raising Bullet Train Fares as Debts and Costs Balloon,” The New York Times, May 13,
+2024, https://www.nytimes.com/2024/05/13/business/china-bullet-trains-ticket-prices.html
+28
+2025-05-03 23:11:24.091 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ However, CRRC’s dominance at home has not translated to success abroad, at least not
+yet. The company earns less revenue today than it did a decade ago, brings in little
+revenue from exports, and has seen its revenue from sales of railway equipment decline
+by one third.71 Interestingly, China’s export of rail locomotives by value has plummeted
+the past decade, while many other categories of rail parts and coaches have stagnated.72
+These statistics are due, in part, to proactive measures by foreign countries to shield
+their markets from Chinese rolling stock and components. They are due, as well, to the
+fact that CRRC has established overseas manufacturing bases in more than 10 countries.
+But they could also indicate that the Chinese government views its rail industry as more
+of a diplomatic tool than a moneymaker. Rail projects with foreign countries are an
+important component of China’s Belt and Road Initiative, in particular the “New Silk
+Road” that connects China to countries across Asia and the Middle East. The most
+recent example is Indonesia’s 88-mile-long Jakarta to Bandung high-speed rail line,
+which began commercial operation last fall.73 The rail line was built as a joint venture
+between state-owned Indonesian firms and China Railway International Co., with trains
+provided by CRRC. It is likely that the Chinese government subsidizes such projects
+because it believes they will facilitate exports for other Chinese industries or draw
+foreign countries closer to its sphere of influence.
+NEW MATERIALS
+• China has established a vast R&D base for new materials, though it has so far
+failed to produce epochal breakthroughs.
+• China has made important incremental progress in key materials, such as
+advanced carbon fiber, that long served as bottlenecks to development in other
+areas of technology.
+In 2023, the scientific community was abuzz about a non-peer-reviewed article,
+published by Korean scientists, claiming to have discovered a room-temperature
+superconductor—a discovery that, had it been validated, would have been a
+monumental breakthrough in physics and materials science, dramatically decreasing the
+amount of energy required to run machines as diverse as supercomputers and MRI
+machines.
+Instantly, an international race began to recreate the crystalline material used by the
+Korean scientists and replicate their findings. These replication attempts ultimately
+failed, and the original paper was retracted. But a striking fact of this saga was the
+71 CRRC Corporation Ltd, “2022 Annual Report,” https://www.crrcgc.cc/Portals/73/Uploads/Files/2023/5-
+4/638188141827907831.pdf
+72 UN International Trade Centre, “Bilateral trade between China and World, Product: 86 Railway or tramway
+locomotives, rolling stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof;
+mechanical (including electromechanical) traffic signalling equipment of all kinds,” accessed March 1, 2024,
+https://www.trademap.org/.
+73 Achimad Ibrahim and Niniek Karmini, “Indonesian president launches Southeast Asia’s first high-speed railway,
+funded by China,” Associated Press, October 2, 2023, https://apnews.com/article/indonesia-china-high-speed-
+railway-jakarta-bandung-3f1e4b5be6a83a0b0f54981c2e93be60
+29
+2025-05-03 23:11:24.232 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ outsized role played by China. Chinese scientists—many of whom were affiliated with
+the country’s most prestigious national laboratories and universities—were among the
+first to recreate the material in question, and their preprint manuscripts flooded the
+internet.74 This episode demonstrated beyond doubt Beijing’s ambitions in materials
+science. China still lags in many areas of materials science, but it has created a massive
+research and development (R&D) complex to catch up with its competitors—and
+ultimately, it hopes, leap ahead.
+ASPI’s Critical Technology Tracker again provides valuable evidence about the
+seriousness of this effort. Of the 10 technology areas ASPI tracks related to advanced
+materials, China has a research lead in all, meaning Chinese institutions are publishing
+the most highly-cited, high-quality research in those fields.75 An example is nanoscale
+materials, which are engineered materials up to 100 nm in size that hold great potential
+for medical, energy, and construction applications. ASPI finds that nine out of the top 10
+institutions in this field measured by the Hirsch index—a metric of scholarly impact—
+are in China, led by the Chinese Academy of Sciences. Measured another way, by
+proportion of most-cited papers, the entire top 10 list is dominated by Chinese
+institutions.
+A more circumspect view of China’s materials science industry was provided late last
+year by Yong Gan, a former vice president of the Chinese Academy of Engineering. Yong
+saw “grand opportunities” and rapid development in China’s output of new materials.76
+He reported that China’s new materials industry has had a compound annual growth
+rate of 20 percent since 2015, versus 10 percent globally. The scale of China’s new
+materials industry is also large, accounting for 30 percent of global output.
+Nevertheless, Yong criticized China’s research base for its failure to achieve
+breakthroughs and the “insufficient novelty” of its patents. Chinese scientists “have yet
+to make any epoch-making contributions in terms of breakthroughs in important
+materials,” he lamented. China’s investment intensity in new materials R&D also lags
+behind that of other developed countries, such as the United States, Japan, and United
+Kingdom. Ultimately, Yong placed China in the “second tier” of countries in new
+materials, alongside Korea and Russia, but behind the United States, Japan, and the
+European Union.
+In a similar vein, technology analyst AJ Cortese notes that China has a talent problem in
+materials science.77 Simply put, young Chinese do not seem to view the industry as a
+promising field, and are entering it in far fewer numbers than they are other high-tech
+fields, like computer science. Most materials science jobs are in “traditional” industries,
+located in China’s industrial heartland. They tend not to attract the country’s best talent.
+74 Margaret Harris, “’Room-temperature superconductor’ LK-99 fails replication tests,” physicsworld, August 15,
+2023, https://physicsworld.com/a/room-temperature-superconductor-lk-99-fails-replication-tests/.
+75 Jamie Gaida, Jennifer Wong Leung, Stephen Robin, and Danielle Cave, “ASPI’s Critical Technology Tracker.”
+76 Yong Gan, “Research on the Innovative Development of New Materials Science and Technology in China,”
+Engineering, January 2024, https://doi.org/10.1016/j.eng.2023.03.022.
+77 AJ Cortese, “Materials Science Matters: The Talent Central to China’s Tech Pivot,” Macro Polo, August 8, 2023,
+https://macropolo.org/materials-science-talent-chinas-tech-pivot/.
+30
+2025-05-03 23:11:24.289 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ Carbon fiber technology in China provides a case study, showing that China is catching
+up quickly, but has not yet cracked the top tier of materials science powers.
+Lightweight, stiff, and strong, carbon fiber is an advanced material key to strategic
+industries. As Cortese documents, China is now the world’s dominant producer of mid-
+range carbon fiber, responsible for 43 percent of global output, followed by the United
+States (18.5 percent) and Japan (9.6 percent).78 The indigeneity of China’s carbon fiber
+has also skyrocketed, climbing from 12.5 percent in 2015 to more than 60 percent
+today.79 Cortese attributes China’s success to its wind-power industry—wind-turbine
+blades are made of carbon fiber—which provided the demand signal for Chinese firms to
+invest.80 However, China has long been locked out of the market for advanced carbon
+fiber (so-called T1000 carbon fiber), which is essential to aerospace and defense
+applications and has long been subject to multilateral export controls.
+China is only now overcoming this hurdle. Late last year, Shenzhen University and
+Changsheng Technology announced a breakthrough in the mass manufacture of T1000
+carbon fiber.81 If China is able to scale production of this material, it could enter the first
+rank of powers in sectors like aerospace, where it lags to this day. In such a world,
+China’s focus on advanced materials would be vindicated. But it has not been vindicated
+yet.
+ROBOTS AND MACHINE TOOLS
+• China does not yet have a world-leading, home-grown robotics manufacturer. Its
+most valuable firm is an acquisition from overseas.
+• Chinese robotics firms have nonetheless started to take over domestic market
+share from leading international firms, progressively moving into higher-value
+types of robots and reducing China’s reliance on imports.
+China has introduced robots into its factories on a scale and at a speed never before seen
+in history, as this report discusses at greater length in the section on Smart
+Manufacturing. It is in a race against time, as it attempts to automate its industry to
+make up for a shrinking pool of prime-age workers. The urgency of this task has made
+China dependent on foreign manufacturers of robots and advanced machine tools, like
+high-end computer numerical control machines. Beijing’s goal in MIC2025 was to end
+this dependency.
+China has not yet built a national champion in robotics capable of challenging the
+world’s leading companies. Japanese firms, along with the Swedish-Swiss giant ABB,
+78 AJ Cortese, “The Curse of Success: Can China Level Up on Carbon Fiber?,” Macro Polo, October 26, 2023,
+https://macropolo.org/can-china-take-carbon-fibers-to-the-next-level/.
+79 Cortese, “The Curse of Success.”
+80 Ibid.
+81 Zhang Tong, “Chinese tech could break barrier to making crucial defence and aerospace material,” South China
+Morning Post, August 23, 2023, https://www.scmp.com/news/china/science/article/3231954/chinese-tech-could-
+break-barrier-making-crucial-defence-and-aerospace-material.
+31
+2025-05-03 23:11:24.358 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ dominate the list of top industrial robotics companies by revenue, taking six out of the
+top 10 spots in one informal ranking.82 No home-grown Chinese company made the cut.
+Instead, China bought a champion. The country’s most important robotics asset is
+KUKA, a more than century-old Bavarian manufacturer. The Chinese electrical
+appliance manufacturer Midea absorbed KUKA in 2016, one year after MIC2025 was
+launched. Midea initially took a small stake in the company before expanding that stake
+to 95 percent of outstanding shares and pushing aside its CEO.83 Midea claimed not to
+want full control of the company, but nonetheless purchased all outstanding shares in
+2022, completing the takeover. KUKA’s specialized knowledge in robotics for the
+automotive industry is of particular importance as China ramps up its EV industry.
+KUKA currently supplies major European, American, and Chinese automakers. Tesla,
+for example, reportedly relies on KUKA robotic arms in its Gigafactories, including the
+Austin Gigafactory that produces the Cybertruck.84 Midea undoubtedly hopes to digest
+the technology and knowledge that KUKA has built over the past century to improve
+China’s standing in robotics.
+China’s homegrown firms are smaller, but growing quickly in the domestic market. The
+main players are Suzhou Inovance Technology, Estun Technology, and Efort
+Intelligence Equipment. Inovance is the most significant firm of the three, with more
+than $2 billion in revenue and a market cap of $25 billion. The company was founded by
+a group of former Huawei engineers and is referred to as the “little Huawei.”85 The
+firm’s billionaire founder, Zhu Xingming, has signaled that his goal is to break into the
+top three companies in the sector within five years, which would require a significant
+international expansion. The product page on the company’s website for the European
+market says Inovance’s industrial robot offerings are “coming soon.”
+Already, “the little Huawei” and other homegrown Chinese firms are helping China
+break its dependence on imported robots and machine tools. Despite record
+installations, China’s imports of industrial robots have declined the past two years.86
+This is due to the steadily increasing business of Chinese firms, which had an estimated
+35.5 percent domestic market share in 2022, up from 17.5 percent a decade ago.87
+China’s position in the highly fragmented machine-tool market is even stronger, with
+Chinese producers accounting for nearly a third of global production in 2022; Germany
+82 Marcus Law, “Top 10 industrial robotics companies in the world in 2023,” Technology Magazine, February 10,
+2023, https://technologymagazine.com/top10/top-10-industrial-robotics-companies-in-the-world-in-2023
+83 Cynthia Wrage and Jakob Kullik, “After Kuka—Germany’s Lessons Learned from Chinese Takeovers,” China
+Observers in Central and Eastern Europe, July 21, 2022, https://chinaobservers.eu/after-kuka-germanys-lessons-
+learned-from-chinese-takeovers/.
+84 Rebecca Ren, “How does appliance giant Midea bulk up robotic arms for Tesla and the entire EV industry,”
+Pingwest, January 9, 2023, https://en.pingwest.com/a/11293.
+85 William Langley and Gloria Li, “Chinese robot maker says protectionism will not stop its march,” Financial Times,
+April 4, 2024, https://www.ft.com/content/0cdf78f9-e2cc-48ff-ba65-027f1cf83334.
+86 International Trade Centre, “Bilateral trade between China and World, Product: 847950 Industrial robots, n.e.s,”
+accessed March 1, 2024, https://www.trademap.org/.
+87 Caixin Global, “Homegrown robots are marching into Chinese factories,” June 16, 2023,
+https://www.thinkchina.sg/technology/homegrown-robots-are-marching-chinese-factories.
+32
+2025-05-03 23:11:24.418 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ and Japan, the world’s second and third largest producers of machine tools, each made
+about 13 percent of the world’s machine tools that year.
+Foreign CEOs are waking up to the fact that the tables are turning against them in
+China. Earlier this year, the Japanese robotics giant, Omron, performed a mass layoff—
+its first since the dot-com bubble.88 The firm’s president acknowledged that “we’ve
+become increasingly dependent on China” and are “struggling against the rise of local
+Chinese makers.”
+China has not yet become a major exporter of industrial robots and has a limited
+footprint in the high end of the robotics and machine tool market, but its firms are
+becoming more sophisticated as they learn to service industrial clients at home. As the
+former general manager of Estun remarked last year: “In the past, domestic industrial
+robots were mainly used for tasks such as handling, palletising, loading and unloading,
+and low-end welding. Now, they are gradually expanding into high-end tasks such as
+assembly, polishing, gluing, and spraying, and are entering industries previously
+monopolised by foreign robot manufacturers.”89
+SEMICONDUCTORS
+• China remains deeply reliant on foreign countries for key inputs, including
+lithography equipment, Electronic Design Assistance software, and advanced
+materials.
+• Chinese semiconductor manufacturing companies like SMIC are pushing the
+boundaries of what is possible in the face of export controls, but are several
+generations behind the leading edge.
+• China is developing a dominant position in legacy chips, which have immense
+commercial and military significance, as well as assembly, testing, and packaging.
+General Secretary Xi has described information technology, in particular
+semiconductors, as the “heart” of Chinese industry.90 “When your heart isn’t strong, no
+matter how big you are, you’re not really strong,” he has said.91 Accordingly, MIC2025
+targeted semiconductors for special attention and support.
+Today, China still trails much of the developed world in cutting-edge semiconductor
+fabrication, semiconductor manufacturing equipment, Electronic Design Assistance
+(EDA) software, and advanced materials like substrates and gases. It also runs a
+substantial trade deficit in semiconductors, relying on imports, mostly from Taiwan and
+Korea, to meet the voracious demands of its internal market and manufacturers.
+However, it is developing home-grown alternatives in each area. China is also well-
+positioned to dominate the production of less advanced chips (so-called legacy chips)
+88 Hirotaka Tamaoka, “China automation slump lays bare Omron’s dependence on market,” Nikkei Asia Review,
+March 15, 2024, https://asia.nikkei.com/Business/Electronics/China-automation-slump-lays-bare-Omron-s-
+dependence-on-market.
+89 Caixin Global, “Homegrown robots are marching into Chinese factories.”
+90 Geoffrey Cain, “The Purges that Upended China’s Semiconductor Industry,” American Affairs, Winter 2022,
+https://americanaffairsjournal.org/2022/11/the-purges-that-upended-chinas-semiconductor-industry/.
+91 Cain, “The Purges that Upended China’s Semiconductor Industry.”
+33
+2025-05-03 23:11:24.485 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ and other parts of the semiconductor supply chain, like assembly, testing, and packaging
+(ATP).
+China has invested heavily to develop an indigenous semiconductor industry, spending
+potentially more than $150 billion in the past decade through state-led investment
+funds like the National Integrated Circuit Industry Investment Fund (the “Big Fund”)
+and a host of smaller, local funds.92 Recently, Beijing has concentrated control of its
+semiconductor investments in a secretive government-run working group, which
+indicates the importance the CCP places on semiconductor technology and its desire to
+avoid further sanctions from the U.S. government.93
+This state-directed investment has produced expensive failures, notably Tsinghua
+Unigroup, whose overextension and decline led to a round of corruption probes,
+prosecutions, and purges of company executives and managers at the Big Fund.94
+However, it has also produced successes. China’s memory champion, Yangtze Memory
+Technologies Corp. (YMTC), was formerly owned by Tsinghua Unigroup, and has
+similarly benefited from massive state investment. YMTC appears to be succeeding
+despite a U.S. government blacklisting, reportedly producing the world’s most advanced
+commercially available NAND memory product.95 The company is successful enough
+that in 2022, Apple considered using its memory products in devices for the Chinese
+market, although it scrapped that plan due to political backlash.96
+China’s premier manufacturer of logic chips is Semiconductor Manufacturing
+International Corp. (SMIC), a state-owned firm with close ties to the Chinese military.
+SMIC has also battled U.S. sanctions with considerable success. Multilateral export
+controls on semiconductor manufacturing tools have cut off SMIC’s access to the most
+advanced chipmaking equipment produced by firms like ASML. In response, SMIC has
+pushed the boundaries of what is possible with older equipment. Last year, Huawei
+stunned industry observers by releasing a new smartphone powered by a SMIC logic
+chip at the 7 nm node of production, just a few generations away from the cutting edge.
+SMIC produced this chip using older tools, although it is unclear whether this
+workaround can produce chips in sufficient quantities and with a high enough yield to
+be profitable. Nevertheless, the appearance of this chip was widely touted in Chinese
+state media as a victory for indigenous Chinese chipmakers over U.S. technology
+controls.
+92 Economist Intelligence Unit, “China boosts state-led chip development,” March 13, 2024,
+https://www.eiu.com/n/china-boosts-state-led-chip-investment/.
+93 Paul Triolo, “A New Era for the Chinese Semiconductor Industry: Beijing Responds to Export Controls,” American
+Affairs, Spring 2024, https://americanaffairsjournal.org/2024/02/a-new-era-for-the-chinese-semiconductor-
+industry-beijing-responds-to-export-controls/.
+94 Triolo, “A New Era for the Chinese Semiconductor Industry.”
+95 Anton Shilov, “China’s YMTC Starts Producing Mysterious New Memory, Ups 3D NAND Prices,” Tom’s Hardware,
+July 18, 2023, https://www.tomshardware.com/news/ymtc-ups-3d-nand-price-starts-production-of-mysterious-
+memory
+96 Office of Senator Marco Rubio, “Rubio to Apple: Deal with CCP Chipmaker Would Threaten U.S. National Security,
+Strengthen China,” April 1, 2022, https://www.rubio.senate.gov/rubio-to-apple-deal-with-ccp-chip-maker-would-
+threaten-u-s-national-security-strengthen-china/
+34
+2025-05-03 23:11:24.544 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ Despite these advances, China remains substantially behind the cutting edge in virtually
+all areas of semiconductor manufacturing. In particular, China lags in lithography
+equipment and EDA software and remains reliant on a handful of Western firms for
+such products. Its problems will grow if a future U.S. administration is more diligent
+about denying export licenses to China’s blacklisted chip champions, particularly SMIC
+and YMTC, and sanctioning Chinese suppliers to those firms and Huawei.
+The picture changes when one looks at legacy or “mature” chips, as well as other parts of
+the supply chain, like ATP. These areas have not been the subject of as much attention
+or concern in Washington. But China’s semiconductor industry is robust in them, posing
+a distinct threat to manufacturers elsewhere in the world. SMIC and other Chinese
+chipmakers have been on a construction spree of fabs producing less advanced chips,
+which go into automobiles, airplanes, and countless weapons systems. Last year, the
+U.S. Director of National Intelligence noted that China plans to build “dozens” of
+semiconductor factories by the end of 2024, “most of which will be dedicated to
+producing older, more mature technologies.”97 China is therefore poised to capture a
+significant share of the global market for these vital chips in the years ahead; China
+already controls 27 percent of global foundry capacity in the 20-45 nm range, and as
+much as 80 percent of global foundry capacity in this range could be located in
+mainland China and Taiwan within the decade, according to the Rhodium Group.98 This
+consolidation would further raise the stakes of a Taiwan contingency.99
+Another strength of China’s, and point of dependency for the United States, is ATP. Two
+of the four largest ATP companies, Amkor Technology and JCET Group, are Chinese.
+Virtually all of the operations in this back-end segment of the semiconductor supply
+chain are concentrated in a few countries in Asia. And China is aggressively buying
+factories from and buying stakes in non-Chinese ATP firms, like Taiwan’s ASE Group
+and Powertech Technologies. While ATP is typically low-value and labor intensive, it is a
+bottleneck that could be used against Western chipmakers. Increasingly, that bottleneck
+runs through China.
+SHIPBUILDING
+• China is by far the world’s largest shipbuilding power by tonnage, outbuilding the
+United States by a margin that is difficult to fathom.
+• China has demonstrated the ability to produce quality as well as quantity,
+building highly capable aircraft carriers, large LNG tankers, and cruise ships.
+• China’s growing fleet of “research” vessels and RORO ships enables it to project
+power in the Asia-Pacific and propel its exports to distant markets.
+97 Office of the Director of National Intelligence, “Annual Threat Assessment of the U.S. Intelligence Community,”
+February 6, 2023, https://www.dni.gov/files/ODNI/documents/assessments/ATA-2023-Unclassified-Report.pdf.
+98 Jan-Peter Kleinhans, Reva Goujon, Julia Hess, and Lauren Dudley, “Running on Ice: China’s Chipmakers in a Post-
+October 7 World,” Rhodium Group, April 4, 2023, https://rhg.com/research/running-on-ice/.
+99 Kleinhans, et. al, “Running on Ice.”
+35
+2025-05-03 23:11:24.596 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ Last year, the Office of Naval Intelligence reported that China’s shipbuilding capacity
+exceeded our own more than 200 times over.100 This remarkable statistic speaks to the
+equally remarkable rise of China as a shipbuilding power. Chinese shipyards now float
+as much tonnage each year as the rest of the world’s shipyards combined, while U.S.
+commercial shipbuilding has shrunk to a fraction of a percent of global output, behind
+small maritime powerhouses like Turkey.101
+In addition to sheer output, China has climbed the value chain by demonstrating the
+ability to build some of the world’s largest and most sophisticated types of ships. The
+three “crown jewels” of the shipbuilding industry are aircraft carriers, liquified natural
+gas (LNG) tankers, and luxury cruise ships. China has proven its mettle in all three
+areas. In May, the PLA Navy (PLAN) began sea trials of the Fujian, China’s third aircraft
+carrier and its first to be designed and built domestically, as well as its first to employ
+catapults; the PLAN is also allegedly building a smaller carrier for fixed-wing drones,
+which would be the first in the world.102 China is competing fiercely with Korea for LNG
+tanker orders, with three shipyards taking contracts for the huge vessels in recent
+years.103 China’s Hudong-Zhonghua shipyard recently released a design for the world’s
+largest such tanker, in collaboration with Qatar.104 And last year, China’s first
+domestically built luxury cruise liner, the Adora Magic City, embarked on its maiden
+voyage.
+100 Alexander Palmer, Henry Carroll, and Nicholas Velasquez, “Unpacking China’s Naval Buildup,” Center for
+Strategic and International Studies, June 5, 2024, https://www.csis.org/analysis/unpacking-chinas-naval-buildup
+101 UN Trade and Development, “Ships built by country of building, annual,” accessed May 22, 2024,
+https://unctadstat.unctad.org/datacentre/dataviewer/US.ShipBuilding.
+102 H.I. Sutton, “China Builds World’s First Dedicated Drone Carrier,” Naval News, May 15, 2024,
+https://www.navalnews.com/naval-news/2024/05/china-builds-worlds-first-dedicated-drone-carrier/.
+103 The Maritime Executive, “China Trounces Korea Taking Three-Quarters of Shipbuilding Orders in April,” May 8,
+2024, https://maritime-executive.com/article/china-trounces-korea-taking-three-quarters-of-shipbuilding-orders-
+in-april.
+104 The Maritime Executive, “China Designs World’s Largest LNG Carrier,” September 5, 2023, https://maritime-
+executive.com/article/china-designs-world-s-largest-lng-carrier.
+36
+2025-05-03 23:11:24.631 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ Source: UN Trade and Development, “Ships built by country of building, annual,” accessed May 22, 2024,
+https://unctadstat.unctad.org/datacentre/dataviewer/US.ShipBuilding.
+Just because China has demonstrated the ability to build these cutting-edge vessels does
+not mean its shipbuilding industry as a whole is cutting-edge. The Fujian is not nuclear-
+powered (although the PLAN has a host of nuclear-powered attack submarines), and has
+fewer elevators and catapults than the U.S. Navy’s Ford class carriers. Korean shipyards
+remain the most sought-after destinations for LNG tankers. And the Adora Magic City
+is far from the world’s largest or most advanced cruise liner—and in fact, only 30
+percent of the ship’s suppliers were Chinese.105
+Still, China’s growing strength in shipbuilding is already having strategic consequences.
+Chinese-built roll-on/roll-off (RORO) ships are ferrying Chinese-made automobiles to
+foreign markets. BYD alone plans to own eight such vessels within two years, each
+capable of carrying thousands of cars.106 RORO ships are also critical to war plans for
+Taiwan, as any such invasion would require an immense amount of amphibious sealift.
+105 Lin Yang, “China’s First Cruise Ship: Made in China, Sourced from Europe,” POLYGRAPH.info, February 14, 2024,
+https://www.polygraph.info/a/fact-check-china-s-first-cruise-ship-made-in-china-sourced-from-
+europe/7487605.html.
+106 Shizuka Tanabe, “BYD to deploy fleet of 8 car carriers to underpin global EV expansion,” Nikkei Asia Review,
+March 5, 2024, https://asia.nikkei.com/Spotlight/Electric-cars-in-China/BYD-to-deploy-fleet-of-8-car-carriers-to-
+underpin-global-EV-expansion.
+37
+2025-05-03 23:11:24.699 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ Chinese merchant ferries take part in PLA exercises, demonstrating their ability to
+offload vehicles at sea, without the benefit of a developed harbor.107
+China is also using its shipbuilding strength to expand its footprint in the Indo-Pacific.
+MIC2025 called for the development of offshore engineering and deep-sea exploration
+capabilities, including “deep-sea space stations.” The deep-sea space stations have yet to
+materialize, but China has made strides in less fantastic offshore engineering
+technology. In December 2023, a Chinese ultra-deepwater drilling vessel, the
+Mengxiang, conducted sea trials.108 Around that time, a separate Chinese research
+vessel, the Zhu Hai Yun, circumnavigated Taiwan and entered its territorial waters at
+several points;109 that vessel embarked from a research institute that collaborates with
+the PLAN on signals intelligence.110 China hopes to use experimental vessels like these
+to project power, spy on its neighbors, and, as Baron Public Affairs notes, create a “blue
+economy” based on deep-sea mining and drilling primarily outside of its exclusive
+economic zone.111 China has already secured exclusive rights to mine 92,000 square
+miles of international seabed in the Pacific, 17 percent of total licensed area.112
+As one Chinese marine geologist has said: “[N]ow we have this equipment, we can make
+up for lost time. China can be its own master and can host and work with people in
+developing countries.”113
+Innovation
+• China’s capacity for innovation has improved along a variety of metrics, including
+R&D spending, science and technology cluster development, and patents.
+• By one account, China leads the world in producing high-quality research in 37
+out of 44 critical technologies, including technologies with important military
+applications.
+MIC2025 placed innovation “at the core” of China’s manufacturing industry.114 In
+particular, the strategy called for strengthening R&D, improving innovative design
+capabilities, promoting applied research into science and technology, and strengthening
+China’s ability to set standards for manufacturing. By many metrics, China’s
+manufacturing sector is far more innovative today than it was a decade ago.
+107 Conor Kennedy, “Ramping the Strait: Quick and Dirty Solutions to boost amphibious lift,” Jamestown Foundation,
+July 16, 2021, https://jamestown.org/program/ramping-the-strait-quick-and-dirty-solutions-to-boost-amphibious-
+lift/.
+108 Baron Public Affairs, “Deep-Sea Minerals: The Next Arena of U.S.-China Competition,” Winter 2024,
+https://www.baronpa.com/library/deep-sea-minerals-the-next-arena-of-u-s-china-competition/.
+109 Matthew Funaiole, Aidan Powers-Riggs, and Brian Hart, “Skirting the Shores: China’s New High-Tech Research
+Ship Probes the Waters Around Taiwan,” Center for Strategic and International Studies, February 26, 2024,
+https://features.csis.org/snapshots/china-research-vessel-taiwan/.
+110 Funaole, et. al, “Skirting the Shores.”
+111 Baron Public Affairs, “Deep-Sea Minerals.”
+112 Lily Kuo, “China is set to dominate the deep sea and its wealth of rare metals,” Washington Post, October 19, 2023,
+https://www.washingtonpost.com/world/interactive/2023/china-deep-sea-mining-military-renewable-energy/.
+113 Kuo, “China is set to dominate the deep sea and its wealth of rare metals.”
+114 State Council of the People’s Republic of China, “Notice of the State Council on the Publication of ‘Made in China
+2025.’”
+38
+2025-05-03 23:11:24.738 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ The World Intellectual Property Organization (WIPO) produces the “Global Innovation
+Index,” which ranks countries by a basket of metrics associated with innovation. In
+2015, the year MIC2025 was released, China ranked 29th in the world, above Portugal
+and Italy and below Spain and Slovenia (Hong Kong ranked 11th).115 In 2023, China
+ranked 12th in the world, above Japan and Israel and below Korea and France (Hong
+Kong ranked 17th).116 This represents a marked improvement in China’s position relative
+to other countries.
+China scored highly on metrics related to innovation in manufacturing, including
+corporate R&D investment (2nd), gross capital formation (2nd), industry diversification
+(2nd), domestic market scale (1st), cluster development (2nd), patents (2nd), labor
+productivity growth (1st), high-tech manufacturing (13th), high-tech exports (5th), and
+industrial designs (2nd). It fared poorly in environmental metrics, “institutional” metrics
+related to its political and regulatory environment, and “online creativity” metrics
+related to software development and app creation. This distribution of strengths and
+weaknesses indicates that China is highly innovative in manufacturing, while struggling
+in areas of less obvious relevance to production.
+WIPO also tracks science and technology clusters around the world, which are areas
+with a particularly high concentration of companies and institutions dedicated to
+scientific and technological pursuits. There, too, China has made significant progress. In
+2023, for the first time, China had the most clusters in the top 100 (24), surpassing the
+115 World Intellectual Property Organization, “Global Innovation Index 2015 Rankings,” accessed June 20, 2024,
+https://www.wipo.int/edocs/pubdocs/en/wipo_pub_gii_2015-intro5.pdf.
+116 World Intellectual Property Organization, “Global Innovation Index 2023,” accessed June 20, 2024,
+https://www.wipo.int/edocs/pubdocs/en/wipo-pub-2000-2023-en-main-report-global-innovation-index-2023-
+16th-edition.pdf.
+39
+2025-05-03 23:11:24.799 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ United States’ 21.117 China has three clusters in the top 10 (Shenzhen/Hong Kong,
+Beijing, and Shanghai), compared to the United States’ four (San Francisco,
+Boston/Cambridge, San Diego, and New York City). China, of course, is a much larger
+country than the United States, so on a per capita basis it has fewer innovation clusters.
+But the gap is shrinking.
+Another measure of innovation is a country’s research into critical technologies. ASPI
+tracks countries’ progress in these technologies by looking at countries’ shares of highly
+cited research papers, their score on the Hirsch index, and the number of top-
+performing research institutions they possess.118 ASPI finds that China has established
+“a sometimes stunning lead” in the technology race, leading the world in research of 37
+out of 44 critical technologies. China also has the lead in every technology related to
+manufacturing. ASPI judges that the risk of China establishing a technology monopoly is
+high in eight of those 37 technologies, including nanoscale materials and
+manufacturing, advanced radiofrequency communications (i.e. 5G), and electric
+batteries. The United States leads in research of the seven remaining areas of critical
+technology, mostly related to computing (including quantum computing), vaccine
+development, and space. In none of the fields where the United States leads in research
+is the risk of technology monopoly deemed high.
+China’s evident lead in high-quality research on critical technologies should serve as a
+wakeup call for U.S. policymakers, who have long consoled themselves that, while the
+United States has lost manufacturing to Asia (increasingly, China), we retain the world’s
+best system for basic research. These findings cast doubt even on that consolation.
+China is capable of high-value research in a variety of fields, related to both production,
+where it excels, and theoretical fields, where the United States once enjoyed a
+comfortable lead. If this research produces breakthroughs and innovations, the Chinese
+state is well-positioned to apply those findings in its corporate sector. It is unlikely to
+make the same blunder the United States has. Since the disappearance of U.S. corporate
+laboratories, our nation has struggled with applied research and translating new
+scientific knowledge into commercial applications for U.S. producers.119
+Finally, MIC2025 placed great emphasis on patents as a metric of innovation. As a
+consequence of this focus and China’s broader industrialization, China’s patent activity
+has risen dramatically.
+An especially useful metric of innovation is the number of international patents filed
+under the Patent Cooperation Treaty (PCT), which allows filers to apply for a patent in
+multiple jurisdictions at once. Receiving a PCT patent is considered more challenging
+and valuable than simply receiving a patent from the filer’s national patent office. Since
+2020, China has filed the most international (i.e. PCT) patent applications of any
+country (70,015 in 2022), surpassing the United States (59,056), Japan (50,345), and
+117 World Intellectual Property Organization, “Global Innovation Index 2023 Cluster Rankings.”
+118 Gaida, et. al, “ASPI’s Critical Technology Tracker.”
+119 David Adler, “The American Way of Innovation and Its Deficiencies,” American Affairs, Summer 2018,
+https://americanaffairsjournal.org/2018/05/the-american-way-of-innovation-and-its-deficiencies/.
+40
+2025-05-03 23:11:24.940 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ Germany (17,530).120 Huawei files by far the most international patent applications of
+any company (6,494 in 2022), followed by Korea’s Samsung (3,924). Besides Huawei,
+three Chinese companies—BOE Technology Group, Contemporary Amperex
+Technologies Ltd. (CATL), and Oppo Mobile Telecommunications—are in the top 10.
+Many analysts note that the quality of Chinese research and patents is often low, and
+there is prodigious evidence this is the case. However, the statistics above indicate that
+China now has many companies, research institutions, and cities dedicated to high-
+quality research and innovation. It is not merely cribbing the work of others anymore.
+Smart Manufacturing
+• China leads the world in installations of industrial robots and installed more
+robots in 2022 than the rest of the world did combined.
+• China’s robot density surpassed the United States’ in 2021, a striking feat given
+the size of China’s manufacturing workforce and wage levels relative to our own.
+• Chinese smart manufacturing is enabled by its vast 5G telecommunications
+network, composed of more than 3.5 million 5G base stations.
+Beijing promotes “smart manufacturing” as a means of upgrading Chinese industry so
+that it is advanced, not merely large. Smart manufacturing integrates digital technology
+and automation into factory settings to monitor production, increase productivity, and
+reduce downtime and reliance on line workers. Widespread adoption of smart
+manufacturing technology is a priority for the Chinese government to ensure that
+production remains high in the future, even as the pool of Chinese workers shrinks due
+to demographic changes. As the economist Nicholas Eberstadt notes, if current trends
+hold, “China’s working-age population will be more than 20 percent smaller in 2050
+than in 2020.”121
+A review of the global manufacturing landscape shows that China has made great strides
+to upgrade its industry, dramatically increasing factory automation and building
+cutting-edge factories in large numbers. However, China still depends on foreign
+multinationals and imports to satisfy its voracious demand for advanced machine tools
+and robots. It also lags behind the most developed countries in its degree of automation,
+reflecting the fact that much of China’s mammoth industrial base is not yet cutting
+edge—though it is still formidable.
+China’s installation of industrial robots is a useful proxy for the state of its
+manufacturing base. According to the International Federation of Robotics, China
+installed more industrial robots in 2022 (290,258) than the rest of the world did
+combined, and has been the world’s largest market for industrial robots for more than a
+120 World Intellectual Property Organization, “PCT Yearly Review 2023,” 2023,
+https://www.wipo.int/edocs/pubdocs/en/wipo-pub-901-2023-exec-summary-en-patent-cooperation-treaty-yearly-
+review-2023-executive-summary-the-international-patent-system.pdf.
+121 Nicholas Eberstadt, “East Asia’s Coming Population Collapse,” Foreign Affairs, May 8, 2024,
+https://www.foreignaffairs.com/china/east-asias-coming-population-collapse.
+41
+2025-05-03 23:11:24.983 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ decade.122 Perhaps a more useful statistic than sheer volume of robots is robot density,
+which measures how many industrial robots a country has against the number of
+workers it employs in manufacturing. China has made strides here as well. In 2021,
+China surpassed the United States in robot density.123 It now ranks fifth in the world,
+well below the world leaders of Korea and Singapore, but evenly matched with Germany
+and Japan.124 This is an impressive feat, given the sheer size of China’s manufacturing
+sector; it employs roughly 38 million people in manufacturing. It is especially
+impressive because Chinese manufacturing workers are paid less than similar workers
+in richer countries like Germany and Japan, meaning Chinese firms are installing robots
+far in excess of what would be expected if their goal was to achieve cost savings through
+automation. Controlling for wage levels, China has by far the highest robot density of
+any country, as Robert Atkinson of the Information Technology and Innovation
+Foundation has noted.125
+Source: International Federation of Robotics
+122 International Federation of Robotics, “World Robotics 2023 Report: Asia ahead of Europe and the Americas,”
+September 26, 2023, https://ifr.org/ifr-press-releases/news/world-robotics-2023-report-asia-ahead-of-europe-and-
+the-americas.
+123 International Federation of Robotics, “China overtakes USA in robot density,” December 5, 2022,
+https://ifr.org/ifr-press-releases/news/china-overtakes-usa-in-robot-density.
+124 International Federation of Robotics, “Global Robotics Race: Korea, Singapore and Germany in the Lead,” January
+10, 2024, https://ifr.org/ifr-press-releases/news/global-robotics-race-korea-singapore-and-germany-in-the-
+lead#:~:text=The%20top%20most%20automated%20countries,2023%20report%2C%20presented%20by%20IFR.
+125 Robert Atkinson, “How Innovative Is China in the Robotics Industry?” Information Technology and Innovation
+Foundation, March 11, 2024, https://itif.org/publications/2024/03/11/how-innovative-is-china-in-the-robotics-
+industry/.
+42
+2025-05-03 23:11:25.048 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ Another rough metric is to consider where the world’s most advanced factories and
+supply chains are located. The World Economic Forum’s Centre for Advanced
+Manufacturing and Supply Chains attempts to do this, compiling a list of factories that
+are putting “smart manufacturing” into practice. The center’s most recent report
+identifies 132 such factories and end-to-end supply chains.126 One third (45) are located
+in China, including nearly half of the factories under the heading “advanced industry.”
+Most of the Chinese factories and supply chains are owned and operated by non-Chinese
+multinational corporations, such as Bosch (Germany), Foxconn (Taiwan), Western
+Digital (United States), and Siemens (Germany). However, many Chinese champions
+also appear on the list, including CATL, BOE, Foxconn Industrial Internet, Haier, and
+Sany Heavy Industry.
+Chinese smart manufacturing is enabled by its world-leading telecommunications
+network. The CCP boasts that China has deployed 3.5 million 5G base stations.127 The
+United States, by contrast, has deployed approximately 100,000 such base stations.128
+5G is especially important in industrial applications, enabling automation, robotics, and
+advanced logistics. China claims more than 10,000 5G-powered industrial internet
+projects, and that number will surely grow as its 5G buildout continues at a rapid clip.129
+There are also signs that China is breaking its dependence on foreigners in areas such as
+machine tools and robotics. It is common for multinationals to manufacture their
+products in China to sell into the China market. In many cases, the Chinese government
+requires foreign firms to manufacture in-country, enter into joint ventures with Chinese
+firms, and use Chinese firms as suppliers as conditions of market access.130 This
+inevitably results in diffusion of technology and manufacturing know-how to the
+indigenous Chinese industrial base. Homegrown Chinese firms are beginning to
+compete with foreign competitors even for high-end, high-value goods, as we will see
+later in this report.
+This sample of advanced manufacturing indicates that China still relies on the expertise
+and technology of foreign multinationals for some categories of high-end, high-value
+industrial goods. However, China’s aggressive procurement of such technology, paired
+with its leadership in telecommunications, shows that its manufacturing sector is far
+more advanced than it was a decade ago.
+Basic Industry
+• China is the undisputed king of basic industrial inputs, such as steel and cement.
+126 Francisco Betti, Vincent Desnos, Yves Giraud, Federico Torti, Martin Becker, Youssef Benkhaira, and Enno de
+Boer, “Global Lighthouse Network: Shaping the Next Chapter of the Fourth Industrial Revolution,” World Economic
+Forum, January 2023, https://www3.weforum.org/docs/WEF_Global_Lighthouse_Network_2023.pdf.
+127 Xinhua, “China home to over 3.5 mln 5G base stations,” April 6, 2024,
+https://english.www.gov.cn/archive/statistics/202404/06/content_WS6610e145c6d0868f4e8e5c84.html.
+128 Ameya Paleja, “China’s 5G dominance: 3.19 million base stations built, outpacing US,” Interesting Engineering,
+October 23, 2023, https://interestingengineering.com/culture/5g-base-stations-china-exceed-3-million.
+129 Paleja, “China’s 5G dominance.”
+130 Chan, “How China uses foreign firms to turbocharge its industry.”
+43
+2025-05-03 23:11:25.120 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ • China’s position in these areas has been driven by its breakneck development of
+infrastructure and real estate.
+• Debt crises in these sectors are leading to a painful rightsizing of China’s industry
+that is only partially offset by increased exports of commodities like steel.
+MIC2025 and much of the discourse surrounding it focused on cutting-edge technology.
+However, one of the main goals of China’s industrial strategy was to promote strong
+basic capabilities in industry. MIC2025 singled out basic components, techniques,
+materials, and technology as the “four basics” in need of support. At least part of
+Beijing’s interest in basic industrial capabilities appears to be military. MIC2025
+discussed dual-use capabilities and military-civil fusion at length in its section on basic
+industrial capabilities, indicating that the Chinese government understands that wars
+are won primarily on the strength of “legacy” and “mature” technologies, not theoretical
+capabilities that may never leave the lab or reach the battlefield. MIC2025 called for
+upgrading basic industry to use more advanced techniques, investing more in
+innovation, and coordinating development to prevent gluts.
+Judged by gross production, China is the undisputed king of basic industry. We can see
+this most strikingly in steel and cement, complementary goods that are the building
+blocks of modern civilization. Nations produce these materials mostly for their internal
+markets, and only secondarily for export. A surge in steel and cement production
+therefore indicates a surge in construction and other downstream industries that rely on
+these inputs, such as the automotive and electricity sectors. Heavy producers of steel
+and cement can be said to be in a nation-building phase. They are the material
+precondition of development. Shortages of these materials can thus inhibit the process
+of development; for example, the high price of concrete has been identified as a factor
+limiting the production of new nuclear power plants in the United States.131 By that
+standard, China has been on a tremendous nation-building tear that is only beginning to
+cool due to the country’s real-estate crisis.
+China uses as much cement in two years as the United States did in the entire 20th
+century.132 Virtually all of that cement is made at home by firms like Anhui Conch and
+the state-owned China National Building Materials Group. China produced 2.3 billion
+metric tons of cement in 2022, down from a high of 2.5 billion tons in 2014 and the
+lowest production volume since 2012.133 Despite this downturn, China still produces and
+consumes more cement than the rest of the world does combined. The second-largest
+producer, India, made 356 million metric tons of cement in 2022—a mere 16 percent of
+China’s production.134
+131 Thomas Hochman, “What’s holding back nuclear in America?,” Oxford Institute for Energy Studies Forum,
+February 2024, https://www.oxfordenergy.org/wpcms/wp-content/uploads/2024/02/OEF-139-.pdf.
+132 Hannah Ritchie, “China uses as much cement in two years as the US did over the entire 20th century,”
+Sustainability by Numbers, March 6, 2023, https://www.sustainabilitybynumbers.com/p/china-us-cement.
+133 Shin Watanabe, “China’s cement makers race to consolidate amid property woes,” Nikkei Asia, July 25, 2023,
+https://asia.nikkei.com/Business/Materials/China-s-cement-makers-race-to-consolidate-amid-property-woes.
+134 Globe Newswire, “India Cement Market Report 2022: A $26+ Billion Market in 2022 - Analysis, Competition,
+Forecast & Opportunities 2018-2022 && 2023-2028,” November 28, 2022, https://finance.yahoo.com/news/india-
+cement-industry-report-2022-101500273.html.
+44
+2025-05-03 23:11:25.188 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ A nearly identical story can be told about steel. In 2022, China produced more than one
+billion tons of crude steel, forged by China Baowu Group and a bevy of other, regional
+steelmaking conglomerates.135 India again came in second, producing 125.3 metric tons
+of crude steel, followed by Japan (89.2 million tons) and the United States (80.5 million
+tons). China’s output of crude steel is still near record highs, although, like that of
+cement, this figure has declined the past two years. Unlike in the cement industry,
+China’s steelmakers have responded to falling prices and demand at home with an
+export blitz. China’s steel exports rose by a third in 2023, to 90.26 million tons.136 Most
+of those exports went to Southeast Asian countries like Thailand and Malaysia.137
+Despite these impressive statistics, there is reason to doubt whether China’s push to
+upgrade its basic industrial capabilities has been successful, and whether its gargantuan
+lead over the rest of the world is sustainable. China’s building spree is coming to an end,
+with its major property and infrastructure developers overleveraged and on the brink of
+insolvency. Beijing is thus looking to other sectors, such as its energy grid and
+manufacturing sector, to drive demand for industrial inputs. China’s steel and building
+materials industries are bracing for a long winter of consolidation and plant closures,
+which explains the recent scramble for exports by its steelmakers.
+Some Chinese officials have also cast doubt on the resilience of China’s basic industrial
+capabilities. In 2021, Miao Wei, a member of the CCP Central Committee and former
+minister of industry and information technology, said that China’s “basic capabilities
+remain weak,” and that too many Chinese business leaders and officials had ignored
+“the transformation and upgrading of traditional industries.”138 Some of these
+traditional industries are in for a painful period of adjustment in the coming years,
+though China is unlikely to be dethroned as the world’s top producer any time soon.
+Branding
+• Chinese companies dominate global rankings of the largest companies by
+revenue, although many of its largest companies are state-owned enterprises.
+• China has built world-leading companies with strong brands, such as Huawei,
+TikTok, and BYD, although it has produced fewer such companies than the
+strength of its industrial base would suggest.
+• Beijing’s espionage and cutthroat trade practices threaten the brands of even its
+most important companies, triggering a wave of backlash in foreign markets.
+MIC2025 called for “the transformation of Chinese products to Chinese brands,” in
+recognition of the fact that China punches below its weight in establishing trusted and
+135 World Steel Association, “World Steel in Figures 2023,” May 18, 2023, https://worldsteel.org/data/world-steel-in-
+figures-2023/.
+136 Amy Lv and Tony Munroe, “China’s steel sector has bigger worries than Biden tariff hike,” Reuters, April 21, 2024,
+https://www.reuters.com/markets/commodities/chinas-steel-sector-has-bigger-worries-than-biden-tariff-hike-
+2024-04-19/.
+137 Tomio Shida, “China’s surging steel exports risk new round of trade frictions,” Nikkei Asia Review, December 20,
+2023, https://asia.nikkei.com/Spotlight/Comment/China-s-surging-steel-exports-risk-new-round-of-trade-frictions.
+138 Miao Wei, “Advancing the High-Quality Development of the Manufacturing Industry,” April 14, 2021,
+https://cset.georgetown.edu/wp-content/uploads/t0328_Miao_Wei_manufacturing_power_EN.pdf.
+45
+2025-05-03 23:11:25.253 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ esteemed companies. The Chinese government identified product quality as the crux of
+the problem: Chinese and international consumers alike viewed “Made in China”
+products as low quality, and therefore had little trust in the companies that produced
+them.
+Today, China has developed a number of world-class brands, and its companies
+dominate global rankings of companies by revenue. However, China has not managed to
+shed its brand-image problem, due in large part to the aggressive policies of the regime
+in Beijing. China underperforms in brand quality, even as it overperforms in countless
+areas of gross production.
+The simplest way to rank the strength of a country’s companies is by revenue. The
+Fortune Global 500 provides this metric each year. It has charted an astonishing rise by
+China over the past decade. In 2015, 98 Chinese companies appeared on the Fortune
+Global 500, compared to 128 American companies.139 The best-performing Chinese
+companies by revenue were Sinopec Group, China National Petroleum Corp., and State
+Grid Corporation—all state-owned enterprises. By 2023, the number of Chinese
+companies on the Fortune Global 500 was higher than the number of American
+companies, 142 to 136. The top performers were the same: State Grid, China National
+Petroleum, and Sinopec.
+Despite strong earnings, Chinese firms lag behind their international competitors in
+other metrics. As CSIS has documented, Chinese firms on the 2022 Fortune Global 500
+ranked 10th by average profit margin and average return on assets.140 In part, this is due
+to the industry composition of Chinese firms, which are heavily concentrated in capital-
+intensive sectors of “traditional” industries. More importantly, it reflects the fact that
+fully 71 percent of Chinese firms on the Fortune Global 500 are state-owned.141
+Other metrics of brand competitiveness show that China has made mixed progress.
+WIPO’s Global Innovation Index measures the “global brand value” of a country’s
+companies based on the estimated cost those companies would pay to license their own
+brand if they did not own it. Mainland China ranked 17th in this metric when WIPO first
+incorporated it in 2020.142 Four years later, it has slid to 20th place, although it remains
+the leader among countries in its income group.143 China’s most valuable brands are a
+mix of state-owned and nominally private enterprises. The top 10 by value include state-
+owned stalwarts like the Industrial and Commercial Bank of China and State, as well as
+nominally private companies like TikTok/Douyin, WeChat, and Huawei.
+WIPO creates this metric in collaboration with Brand Finance, a company dedicated to
+the study of brand valuation. Brand Finance data indicates that the number of Chinese
+companies among the world’s most valuable 500 brands grew from 44 in 2015 to 68 in
+139 Fortune, “Fortune Global 500,” accessed June 7, 2024, https://fortune.com/ranking/global500/.
+140 Qin (Maya) Mei, “Fortune Favors the State-Owned: Three Years of Chinese Dominance on the Global 500 List,”
+Center for Strategic and International Studies, October 7, 2022, https://www.csis.org/blogs/trustee-china-
+hand/fortune-favors-state-owned-three-years-chinese-dominance-global-500-list.
+141 Mei, “Fortune Favors the State-Owned.”
+142 World Intellectual Property Organization, “Global Innovation Index 2020.”
+143 World Intellectual Property Index, “China ranking in the Global Innovation Index 2023.”
+46
+2025-05-03 23:11:25.306 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ 2024.144 In both years, state-owned enterprises made up about half of China’s entries on
+the list. However, in 2024, nominally private companies rank much higher on the list
+than they did a decade before. TikTok/Douyin has topped the list as China’s most
+valuable brand, at seventh place overall, though it remains to be seen how the
+impending ban on ByteDance in TikTok’s most important overseas market, the United
+States, will affect the app’s brand value in the years ahead. Another eight nominally
+private Chinese companies have cracked the top 100. This is a stark change from 2015,
+when the most valuable “private” Chinese company to appear on the list, Baidu, ranked
+85th; it was the only such company to crack the top 100. This phenomenon indicates that
+China’s supposedly private brands are gaining traction relative to state-owned
+enterprises, although China still relies on the latter far more than comparable nations
+do, which undoubtedly hurts its brand competitiveness.
+China’s brands face additional headwinds from negative public opinion about the
+Chinese government. Ironically, MIC2025’s aggressive subsidies and export promotion
+have led to a backlash that weakens China’s brands overseas, even as they have helped
+many of Chinese companies climb the value chain and improve the quality of their
+products.
+Sustainability
+• China leads the world in installation of renewable energy, but remains the world’s
+worst polluter and has hedged its installation of renewables with significant
+increases in traditional carbon-intensive power.
+• When industrial strength and sustainability have come into conflict, Beijing has
+chosen to prioritize the former.
+Another pillar of China’s MIC2025 strategy was green manufacturing. This goal had two
+prongs. First, to dominate the production of renewable energy and green technology,
+such as solar panels, wind turbines, and EVs. Second, to “green” China’s manufacturing
+sector by lowering its emissions and resource intensity. Beijing claimed that these goals
+would feed off of each other, creating a virtuous cycle where China’s traditional
+strengths in carbon-intensive inputs like steel and aluminum would give producers of
+renewables a cost advantage; China could then install home-grown renewables into its
+electricity grid and industrial base, lowering the emissions of those sectors in turn.
+In practice, China has placed much greater stock behind reaching the first goal
+(manufacturing renewables) than the second (reducing emissions in its manufacturing
+sector). China’s dominant production of green technology was discussed in the Critical
+Technologies section of this report, so this section focuses on its attempt to “green” its
+manufacturing sector.
+144 Brand Finance, “Global 500 2024: The annual report on the world’s most valuable and strongest brands,” January
+2024, https://brandirectory.com/rankings/global/.
+47
+2025-05-03 23:11:25.373 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ China is the world’s worst polluter and emits the most greenhouse gas of any nation. It
+rates poorly on a slew of environmental metrics, including air pollutants, heavy metal
+exposure, and ocean plastics.145
+The Chinese government has made bold commitments to reduce carbon emissions and
+increase its use of renewable energy. Xi has announced that China’s carbon emissions
+will peak by 2030, and that China will become carbon neutral by 2060. Xi has further
+pledged not to build new coal plants overseas (a much-heralded announcement that
+conveniently serves to strengthen China’s domestic manufacturing at the expense of
+foreign competitors). China has also signed multiple non-bindings declarations with the
+United States pledging to dramatically increase capacity of renewable energy, such as
+wind and solar.
+China’s commitment to decarbonization is driven more by worries about energy security
+than any vaguer environmental commitment. China is the world’s largest oil importer,
+importing 11 million barrels of oil per day. Most of these imports arrive by sea and
+transit the Strait of Malacca, leaving them vulnerable to blockade. China’s overland
+pipeline capacity is insufficient to make up for a loss of seaborne imports, despite its
+deepening trade in oil with Russia. China has therefore adopted a number of strategies
+to mitigate this dependency, including stockpiling and constructing underground oil
+reservoirs.146 Transport electrification is another facet of this strategy, allowing Beijing
+to manage oil demand for strategic reasons while trumpeting the change as a victory for
+the environment.
+China leads the world in renewable energy installations, a boom enabled by its
+dominant production of solar panels, wind turbines, and nuclear power plants. China
+installed more solar panels last year than the entire installed capacity of the United
+States, and has more solar-farm capacity than the rest of the world does combined.147
+China is also ramping up nuclear, with 55 reactors in operation and 26 under
+construction—although the United States still has a sizeable lead in terms of operating
+nuclear capacity, due mainly to reactors built decades ago.148
+Despite this renewable blitz, a host of factors have led China to hedge its installation of
+renewables with vast increases in carbon-intensive energy and production. Beijing has
+responded to flagging economic growth and challenges with renewable energy
+(including intermittency and a record drought that hurt its production of hydropower)
+with a shift back to reliance on coal-fired power. As a consequence, China’s emissions
+have started to diverge in recent years from its ambitious targets. China’s carbon-
+dioxide emissions increased by 12 percent between 2020 and 2023, in large part due to
+145 Sebastian Block, John Emerson, Daniel Esty, Alex de Sherbinin, and Zachary Wendling, “2024 Environmental
+Performance Index,” Yale Center for Environmental Law & Policy, 2024, https://epi.yale.edu/about-epi.
+146 Gabriel Collins, “China’s Energy Import Dependency: Potential Impacts on Sourcing Practices, Infrastructure
+Decisions, and Military Posture,” Rice University Baker Center for Public Policy, March 2022,
+https://www.uscc.gov/sites/default/files/2022-03/Gabriel_Collins_Testimony.pdf.
+147 Isabel Hilton, “How China Became the World’s Leader on Renewable Energy,” YaleEnvironment360, March 13,
+2024, https://e360.yale.edu/features/china-renewable-energy.
+148 World Nuclear Association, “Nuclear Reactors in China,” accessed June 7, 2024, https://www.world-
+nuclear.org/nuclear-reactor-database/summary/China.
+48
+2025-05-03 23:11:25.455 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ increased emissions from the energy and manufacturing sector.149 Further increases are
+expected, as China continues to approve and build new coal-fired power plants—
+permitting the equivalent of two coal plants per week in 2023.150 Virtually all of the new
+coal capacity to come online last year was in China. The country has approved enough
+new coal capacity—218 GW in two years—to supply power to all of Brazil.151
+Ironically, China’s dominance in clean energy technologies is coming at a high cost to
+the environment. In parts of China where rare-earth elements are mined and processed,
+the earth is marred by massive tailings ponds of toxic waste, some miles wide.152
+Even China’s evident successes, such as dramatic improvements in air quality in major
+cities in the past decade, are not the tidy stories told by Beijing’s propaganda organs.
+Much of the improvement in air quality was caused by the relocation of coal-fired power
+plants and heavy industry from major urban centers to the interior of the country.153
+And last year, levels of particulate matter in most major Chinese cities increased by 7.7
+percent, the first worsening of air quality in a decade.154
+When push comes to shove, Beijing has prioritized industrial strength over
+sustainability—gambling that it can produce its way out of its problems, including a
+shrinking population and high levels of debt. This choice reflects the stark reality that
+manufacturing is, and will be for the foreseeable future, a resource- and emissions-
+intensive activity. Despite Beijing’s bold climate commitments, it wishes above all to be
+the world’s dominant manufacturing power. Its actions and energy mix reflect that wish.
+Structural Reform
+• Beijing has expressed a commitment to the structural reform of its economy, but
+has proven unable or unwilling to follow through in practice.
+• Some sectors of China’s economy suffer from severe overcapacity, leading to
+supply gluts and harmful surges in exports.
+• Other sectors accused of overcapacity, such as automobiles, do not obviously
+suffer from the affliction, and may genuinely represent the growing
+competitiveness of Chinese firms.
+149 Lauri Myllyvirta, “Analysis: Record drop in China’s CO2 emissions needed to meet 2025 target,” Carbon Brief,
+February 22, 2024, https://www.carbonbrief.org/analysis-record-drop-in-chinas-co2-emissions-needed-to-meet-
+2025-target/.
+150 Julia Simon, “China is building six times more new coal plants than other countries, report finds,” National Public
+Radio, March 2, 2023, https://www.npr.org/2023/03/02/1160441919/china-is-building-six-times-more-new-coal-
+plants-than-other-countries-report.
+151 Colleen Howe and Ella Cao, “In China’s coal country, full steam ahead with new power plants despite climate
+pledges,” Reuters, November 30, 2023, https://www.reuters.com/sustainability/chinas-coal-country-full-steam-
+ahead-with-new-power-plants-despite-climate-2023-11-30/.
+152 Michael Standaert, “China Wrestles with the Toxic Aftermath of Rare Earth Mining,” YaleEnvironment360, July 2,
+2019, https://e360.yale.edu/features/china-wrestles-with-the-toxic-aftermath-of-rare-earth-mining.
+153 Jason Douglas, “China’s Factory Floor Is Moving—But Not to India or Mexico,” The Wall Street Journal, October
+7, 2023, https://www.wsj.com/world/china/chinas-factory-floor-is-movingbut-not-to-india-or-mexico-dbd9fd69.
+154 Christian Shepherd, “China’s air quality worsened this year for the first time in a decade,” Washington Post,
+December 22, 2023, https://www.washingtonpost.com/world/2023/12/22/china-pollution-worse-coal/.
+49
+2025-05-03 23:11:25.530 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ One of the more intriguing goals of MIC2025 was structural reform of manufacturing to
+promote high-value industry, phase out obsolete industry, and resolve what the CCP
+refers to as “the contradictions of excess capacity.”155 This goal was closely tied to
+Beijing’s campaign of “Supply Side Structural Reform,” announced in 2015, which
+aimed to deleverage China’s heavily indebted corporate sector and reduce capacity in
+areas such as steel and coal, where industry had grown too large even for China’s vast
+domestic market. As part of that campaign, China shuttered 290 million tons of coal
+capacity and 60 million tons of steel capacity, a monumental feat that, as the Economist
+recently noted, meant China had “removed more capacity in these industries than most
+countries have ever possessed.”156
+Despite this push for restructuring, China still has excess capacity in many sectors, a
+problem that has worsened due to the property crisis and cooling of its economy. Excess
+capacity occurs when a country’s ability to produce certain goods outstrips demand for
+those goods in its market, leading to cratering prices and spillovers into international
+markets. The Rhodium Group notes that China’s overall industrial capacity utilization
+rate has declined the past three years, though it is not at the crisis levels it reached in
+2016.157 Still, in some sectors especially vulnerable to a property downturn, such as
+cement and glass, China’s capacity utilization is as low as 30 percent, indicating severe
+excess capacity.158
+Until very recently, China’s leaders continued to pay lip service to structural reform in
+official speeches. During the National People’s Congress, Premier Li listed “overcapacity
+in some industries” as the second problem preventing a sustained economic recovery,
+after lack of demand.159
+However, Beijing has proven unwilling—or perhaps unable—to deal with this problem in
+practice. Its policy choices since the Covid-19 pandemic, in particular, have been the
+opposite of what it should do if it aims to reduce excess capacity. The Rhodium Group
+notes that lavish government support to the industrial sector during the pandemic has
+sharply increased the number and ratio of industrial companies operating at a loss.160
+Xi’s decision to redouble support for manufacturing is a further sign that Beijing is
+deprioritizing the rightsizing of industry. In effect, China is trying to outrun its troubles
+through even greater commitment to manufacturing and exports.
+In some cases, Beijing’s excess capacity appears to be the product of careful planning
+more than worsening economic challenges. Excess capacity is evident in many high-tech
+fields, such as lithium-ion batteries, where China appears to be on track to produce
+155 State Council of the People’s Republic of China, “Made in China 2025.”
+156 The Economist, “What Xi Jinping gets wrong about China’s economy,” May 9, 2024,
+https://www.economist.com/finance-and-economics/2024/05/09/what-xi-jinping-gets-wrong-about-chinas-
+economy.
+157 Camille Boullenois, Agatha Kratz and Daniel H. Rosen, Overcapacity at the Gate, Rhodium Group, March 26, 2024,
+https://rhg.com/research/overcapacity-at-the-gate/.
+158 Tom Hancock, US-Europe Gripes on China Overcapacity Aren’t All Backed by Data, Bloomberg, April 2, 2024,
+https://www.bloomberg.com/news/articles/2024-04-02/us-europe-gripes-on-china-overcapacity-aren-t-all-backed-
+.by-data
+159 Qiang, “Report on the Work of the Government.”
+160 Boullenois, et. al, “Overcapacity at the Gate.”
+50
+2025-05-03 23:11:25.596 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ three times more batteries than the entirety of the world’s demand.161 China retains a
+similar excess capacity for rare earth magnets—critical inputs in drones, lasers, EVs, and
+numerous military technologies. Despite signs that global demand for these magnets has
+begun to flatten, CCP officials have recently ordered state-owned mines to increase
+processing of rare-earth minerals, while simultaneously issuing regulations aimed at
+tightening CCP control over rare-earth supply chains.162
+China’s excess capacity is already leading to painful rounds of consolidation in several
+sectors. And yet, despite that harm to profitability, the CCP may view said capacity as an
+avenue to gain effective control over strategic supply chains, including those listed
+above, through export dumping. The ability to flood the global market at any moment
+with excess magnets, for example, provides Chinese authorities broad discretion to set
+global prices and strategically undermine competitors abroad.
+As international criticism of its trade practices has intensified, China’s leaders have
+angrily denied there is a problem at all. One month after his address at the NPC, Li
+performed an about-face, stating that the problem of overcapacity should not be
+attributed solely to China. Xi has taken an even stronger line, stating that “[t]he so-
+called ‘problem of China’s overcapacity’ does not exist, either from the perspective of
+comparative advantage or in light of global demand.”163 China’s state media has adopted
+a typically triumphalist tone, claiming that what Western countries call overcapacity is
+in fact evidence of China’s superior manufacturing, which has triumphed in
+international competition and can produce more products at lower prices than its
+competitors.
+In some of the sectors that have provoked the loudest protests from Western
+policymakers, there is some truth to China’s protests. The Chinese EV industry, for
+example, does not have unusually low capacity utilization rates outside of uncompetitive
+firms that are likely to go bust as part of the ferocious culling underway in that sector.
+Falling prices and rising production in this sector seem to stem from a combination of
+heavy state subsidies and genuine competitive advantage. Some analysts have gone so
+far as to say that China’s EV industry is “21st Century Fordism” in practice.164 This is all
+the more reason to take China’s industrial policy seriously as a threat to American, and
+indeed global, industry.
+Manufacturing Services
+• China emphasizes producer services, as opposed to consumer services, as a key
+support for its manufacturing industry.
+161 The Economist, “What Xi Jinping gets wrong about China’s economy.”
+162 Enes Marina, “Rare-Earth Prices Are in the Doldrums. China Wants to Keep Them That Way.,” The Wall Street
+Journal, July 15, 2024, https://www.wsj.com/finance/commodities-futures/rare-earth-prices-are-in-the-doldrums-
+china-wants-to-keep-them-that-way-bf0477da.
+163 The Economist, “What Xi Jinping gets wrong about China’s economy.”
+164 Glenn Luk, X, June 3, 2024, https://x.com/GlennLuk/status/1797626337919701086.
+51
+2025-05-03 23:11:25.662 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ • China’s national-security crackdown is leading to an exodus of world-leading
+foreign firms, accelerating the timeline on which China must rely on its own firms
+to provide many of the same services.
+MIC2025 supplemented its focus on the manufacturing sector with a drive to improve
+the country’s producer services, which are business-to-business services such as finance,
+logistics, consulting, and advertising. Beijing emphasizes producer services over
+consumer services because it is the former that enable Chinese manufacturers to build.
+In a 2020 speech to the China International Fair for Trade in Services, General
+Secretary Xi described the services sector as “unique” because it is “asset-light but heavy
+in soft factors of production.”165 The lodestar of Beijing’s economic thought is
+production; its industrial policy is oriented around that goal, including in how it thinks
+about services.
+As China’s manufacturing sector has grown dominant, Beijing has dangled services as
+an area where foreign firms can participate. However, MIC2025 clearly indicated
+Beijing’s hope that indigenous Chinese firms should one day take over from foreign
+firms, just as they have in manufacturing. Beijing’s recent and abrupt crackdown on
+foreign consulting and finance firms has accelerated this drive for indigeneity.
+China’s services sector has experienced growth in the past decade, though services
+account for a far lower share of its economy than they do for those of its rivals. Services
+of all types accounted for 53 percent of China’s GDP in 2022, up from 51 percent in
+2015.166 By contrast, services accounted for 78 percent of GDP in the United States, 70
+percent in Japan, and 63 percent in Germany. Since 2015, employment growth in
+producer services in China has been particularly brisk, while the employment share of
+consumer services (while much higher) has stagnated.167
+China pays lip service to the importance of liberalizing its services sector to entice new
+investment from foreign firms. In 2020, Xi declared that the services sector “requires,
+more than other sectors, an open, transparent, inclusive and non-discriminatory
+environment.”168 This declaration was accompanied by a slew of plans to open up
+targeted services sectors, notably financial services.
+However, growing tensions with the United States and other countries have led to an
+abrupt end to China’s drive for openness. In 2023, the business environment for foreign
+firms operating in China—particularly firms from the United States and its allies—
+darkened dramatically. A new “national-security” crackdown began, with 2023 as the
+watershed year. China broadened its Counter-Espionage Law to cover any “documents,
+165 Xi Jinping, “Remarks by H.E. Xi Jinping, President of the People's Republic of China, At the Global Trade in
+Services Summit of The 2020 China International Fair for Trade in Services,” China Daily, September 4, 2020,
+https://www.chinadaily.com.cn/a/202009/04/WS5f52502ea310675eafc57a8c.html.
+166 World Bank Group, “World Development Indicators: Structure of value added,” accessed June 7, 2024,
+https://wdi.worldbank.org/table/4.2.
+167 Xilu Chen, Guangyu Pei, Zheng Song, and Fabrizio Zilibotti, “Is China Becoming a Service Economy?,” VoxChina,
+October 12, 2022, https://www.voxchina.org/show-3-292.html.
+168 Xi Jinping, “Remarks by H.E. Xi Jinping, President of the People's Republic of China, At the Global Trade in
+Services Summit of The 2020 China International Fair for Trade in Services.”
+52
+2025-05-03 23:11:25.827 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ data, materials, or items related to national security and interests,” not just official state
+secrets.169 It also began to investigate and harass foreign firms carrying out due-
+diligence, audit, and other consulting work in China. Early that year, Beijing instructed
+state-owned enterprises to phase out their work with the Big Four accounting firms,
+thus denying Western investors insight into their books and operations. China’s
+cybersecurity regulator barred Micron products from being included in critical
+infrastructure.170 Wind Information, China’s equivalent of Bloomberg Terminal,
+restricted access to financial data and satellite imagery to users outside mainland China,
+citing “relevant laws and regulations.”171 Chinese authorities raided the offices and
+detained employees of the Mintz Group, an American due-diligence firm allegedly
+looking into forced labor in the Xinjiang Uyghur Autonomous Region.172 Other
+employees of Western firms, including senior executives, were detained or barred from
+leaving the country for months at a time.
+China’s crackdown accelerated a corporate exodus from China. Foreign direct
+investment in China plummeted 80 percent in 2023 from the year before.173 FDI was
+negative in the third quarter for the first time ever recorded. Venture capital and private
+equity in Chinese companies plummeted, as firms deeply compromised by China
+scrambled to unwind their investments.174
+China increasingly must rely on its own firms to provide financial and professional
+services to other parts of its economy, on a shorter timeline than Beijing perhaps
+anticipated. It has a slew of companies capable of providing these services. Many of
+China’s top companies by revenue and market capitalization are banks, insurance
+companies, and enterprise-technology companies (e.g., Tencent). But the loss of blue-
+chip Western firms will be hard to replace if the exodus continues. China is paying a
+heavy price for Xi’s obsession with national security.
+“Going Global”
+• China seeks to “go global” by turning its domestic firms into truly globe-spanning
+enterprises.
+169 Dennis Kwok, “Xi’s National Security Agenda: How can governments and businesses de-risk?,” China Strategic
+Risks Institute, June 21, 2023, https://www.csri.global/research/xis-national-security-agenda-how-can-
+governments-and-businesses-de-risk.
+170 Kevin Yao, “China fails Micron’s products in security review, bars some purchases,” Reuters, May 22, 2023,
+https://www.reuters.com/technology/chinas-regulator-says-finds-serious-security-issues-us-micron-technologys-
+2023-05-21/.
+171 Rebecca Feng, “A Chinese Alternative to Bloomberg Terminals Quietly Limits Information Overseas,” The Wall
+Street Journal, May 27, 2023, https://www.wsj.com/articles/a-chinese-alternative-to-bloomberg-terminals-quietly-
+limits-information-overseas-bd98cf5e.
+172 Vishakha Saxena, “US Consultancy Firm in China Worked on Xinjiang Before Raids,” Asia Financial, May 19,
+2023, https://www.asiafinancial.com/us-consultancy-firm-in-china-worked-on-xinjiang-before-raids.
+173 Iori Kawate and Shunsuke Tabeta, “Foreign direct investment in China falls to 30-year lows,” Nikkei Asia Review,
+February 19, 2024, https://asia.nikkei.com/Economy/Foreign-direct-investment-in-China-falls-to-30-year-low.
+174 Erin Griffith, “Silicon Valley Venture Capitalists Are Breaking Up With China,” The New York Times, February 21,
+2024, https://www.nytimes.com/2024/02/21/technology/silicon-valley-vc-china.html.
+53
+2025-05-03 23:11:25.890 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ • As trade barriers against China’s products rise in the industrialized world,
+Chinese firms have targeted the Global South as an export market and overseas
+manufacturing base.
+• The “Sino-forming” of the developing world poses a diplomatic as well as
+commercial threat to U.S. interests.
+Encouraging Chinese companies to “go out” or “go global” has been official policy since
+at least the mid-1990s. This policy was originally motivated by concern that China’s
+largely state-owned enterprises would never become internationally competitive if they
+did not expose their products and people to the rigor of foreign competition. Chinese
+firms like Lenovo and Sinopec were early participants in this policy, establishing
+overseas operations and reaping the benefits in terms of technology and talent.
+MIC2025 was in many respects an insular strategy, focused on strengthening China’s
+domestic industry. However, it also inaugurated a new effort to “go global” by
+encouraging Chinese manufacturing companies to become truly globe-spanning
+enterprises. The Belt and Road Initiative has provided key support for this goal,
+facilitating infrastructure projects in the Global South that shift excess construction
+materials and workers overseas, while paving the way for further exports.
+China’s outbound investment is difficult to quantify with any reliability, but it is
+formidable. Official statistics from China’s Ministry of Commerce claim that outbound
+investment grew from $12.3 billion in 2005 to $183.8 billion in 2023, and has not
+dipped below $100 billion in the past decade. Some analysts, notably Derek Scissors of
+the American Enterprise Institute (AEI), cast doubt on these statistics, noting the
+absurdity of China’s claim that outbound investment accelerated in 2020-21, when the
+world was in the depths of the pandemic.175 AEI’s investment tracker reflects much
+smaller sums of outbound investment, but records a significant increase in 2023 to $56
+billion.176
+Whatever the exact figure, it is clear that China’s businesses are eager to expand their
+international operations. As trade barriers against Chinese products go up, Chinese
+businesses are “going out” in an attempt to circumvent them, with considerable success.
+David Goldman notes that while Chinese exports to the United States have plummeted
+in recent years, they have come in through the back door; China’s exports to the Global
+South have risen in step with the United States’ imports from the Global South,
+indicating massive circumvention of U.S. trade barriers.177 Goods are being shipped
+from China to third-party countries, re-flagged, then shipped to their final destination in
+the United States, a practice referred to as transshipment.
+175 Derek Scissors, “Better but Not Well: China’s Global Investment Needs More Fuel,” American Enterprise Institute,
+January 18, 2024, https://www.aei.org/research-products/report/better-but-not-well-chinas-global-investment-
+needs-more-fuel/.
+176 Scissors, “Better but Not Well.”
+177 David Goldman, “2 words explain China export ‘surge’: Global South,” Asia Times, May 21, 2024,
+https://asiatimes.com/2024/05/2-words-explain-china-export-surge-global-south/.
+54
+2025-05-03 23:11:25.923 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ Source: UN International Trade Centre, Trade Map, accessed August 28, 2024, https://www.trademap.org/.
+Note: Trade data representing “Global South” includes the following regions: Association of Southeast Asian Nations
+(ASEAN), South Asia, Middle East North Africa (MENA), Africa, South America, and Central Asia.
+Perhaps a greater long-term concern than transshipment is China’s greenfield
+investment abroad. Chinese companies are establishing global value chains, which
+include sophisticated factories that will allow them to enter foreign markets and tamp
+down criticism about export practices. In 2022, CATL announced a multi-billion-dollar
+investment in a battery factory in Hungary, Europe’s largest. Chinese automakers,
+including BYD, have acquired or announced factories in Brazil, hoping to expand their
+position in the Latin American market. A number of news articles also report China’s
+interest in building EV factories in Mexico to access the American market through the
+back door—although Mexican officials appear to have hit the brakes on these plans by
+denying Chinese automakers access to incentives like low-cost land or tax breaks.178
+The United States may succeed in preventing China from gaining a toehold in its
+backyard, but it will face greater challenges farther from home. Countries desperate to
+178 Diego Ore, “Exclusive: Mexico, facing US pressure, will halt incentives to Chinese EV makers,” Reuters, April 18,
+2024, https://www.reuters.com/business/autos-transportation/mexico-facing-us-pressure-will-halt-incentives-
+chinese-ev-makers-2024-04-18/.
+55
+2025-05-03 23:11:25.977 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ industrialize will be sorely tempted to welcome Chinese manufacturers, who are now
+best in class in a variety of industries. The way will be paved by China’s diplomats and
+BRI projects to sweeten the deal. These commercial ties will grow into political ties that
+may be hard to untangle. The Global South risks being “Sino-formed,” to use Goldman’s
+phrase, by the newest wave of “going out.” The United States will need to offer a
+substantive alternative, not just strong condemnations and humanitarian aid, to avoid
+this setback.
+CONCLUSION
+Commentary on China’s economy swings wildly between extremes. On the one hand, the
+Chinese economy is often portrayed as deeply troubled, perhaps even on the verge of
+collapse. Stories in this vein emphasize China’s very high debt burden, slowing growth,
+distressed real-estate sector, and aging population—all real problems. President Joe
+Biden repeated a version of this argument in an interview with TIME magazine in June,
+where he stated that China’s economy is “on the brink”:
+Name me—Would you trade places with Xi Jinping and any other country? Not a
+joke, I'm being deadly earnest, a rhetorical question. But would you? You’ve got a
+population that’s considerably older than the vast majority of the youth in
+Europe, that is too old to work. And they are xenophobic. Where is it coming
+from? Where is it going to grow? You’ve got an economy that’s on the brink there.
+The idea that their economy is booming? Give me a break.179
+On the other hand, there is growing awareness—and alarm—about China’s dominant
+position in high-tech sectors deemed critical to the future of the world economy.
+President Biden’s attempts to wall off the American auto industry from Chinese
+competition, while insufficient, show he is aware of this fact.
+Can these stories be reconciled? Perhaps. It may be the case that China’s export- and
+manufacturing-oriented development model has been successful enough to propel
+China to the technology frontier in the short term, but not successful enough to help the
+country outrun its structural problems in the long term. This is certainly the narrative
+that many in Washington prefer, as it recalls our victory in the Cold War. Then, an
+innovative, dynamic, and capitalist United States triumphed over an adversary with a
+gerontocratic and dysfunctional political class and a communist economic model
+incapable of managing the transition to the information age. It is tempting to believe
+that a similar triumph is now assured because our nation has been so successful in the
+past. We win, they lose.
+But an invincible belief in one’s own success is a recipe for complacency. And
+increasingly, this belief is at odds with the evidence in front of our faces. If this report
+conveys any message, let it be that the United States cannot be complacent about
+179 TIME, “Read the Full Transcript of President Joe Biden’s interview With TIME,” June 5, 2024,
+https://time.com/6984968/joe-biden-transcript-2024-interview/.
+56
+2025-05-03 23:11:26.019 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ Communist China. Think-tank scholars and economists may bank on China’s coming
+collapse. Beijing is taking the other side of that wager. It believes that manufacturing,
+exports, and “new quality productive forces” are the keys to regime survival and indeed
+to the “great rejuvenation of the Chinese nation.” It believes that technology and
+production will enable it to preserve its communist system while becoming a rich
+country. So far, it has succeeded in blazing this alternative development path. But
+suppose today is the high-water mark of China’s power. Even in such an optimistic
+scenario, the CCP will still present a real, existential threat to American industry and
+workers for years to come. And Communist China will still be a more formidable
+adversary than any the United States has faced in living memory. At this point, the
+burden of proof should be on the critics who insist the CCP’s project is doomed to fail.
+Instead of being complacent, the United States must act urgently to shield itself from
+China’s predations and reboot its ailing industry. This will require a bold industrial
+policy to support sectors critical to our national and economic security, paired with an
+equally bold deregulatory agenda to clear the path for industry to build again.180 It will
+require strong trade barriers capable of adapting to China’s transshipment and “going
+out” strategy. It will require greater vigilance against Chinese espionage, propaganda,
+and technology theft, particularly in sectors like aerospace, agriculture, and biotech,
+where we retain leads. Adapting to the new reality will require dusting off old history
+books and playbooks for development.
+We should be circumspect enough to realize that, in many areas, the days when China
+needed to steal from us are past. Now, in sectors as diverse as shipbuilding, EVs, and
+energy, China leads the rest of the world. Already, Beijing is deploying new resources to
+lock in its advantages in these sectors, and to use its technology and trade to remake the
+world according to its interests.
+180 U.S. Senator Marco Rubio, “Industrial Policy, Right and Wrong,” National Affairs, Spring 2024,
+https://www.nationalaffairs.com/publications/detail/industrial-policy-right-and-wrong
+57
+2025-05-03 23:11:44.243 | ERROR    | translator.translation_chain:run:48 - An error occurred during translation: Error code: 400 - {'contentFilter': [{'level': 1, 'role': 'assistant'}], 'error': {'code': '1301', 'message': '系统检测到输入或生成内容可能包含不安全或敏感内容，请您避免输入易产生敏感内容的提示语，感谢您的配合。'}}
+2025-05-03 23:12:04.443 | ERROR    | translator.translation_chain:run:48 - An error occurred during translation: Error code: 400 - {'contentFilter': [{'level': 1, 'role': 'assistant'}], 'error': {'code': '1301', 'message': '系统检测到输入或生成内容可能包含不安全或敏感内容，请您避免输入易产生敏感内容的提示语，感谢您的配合。'}}
+2025-05-03 23:16:23.299 | DEBUG    | __main__:translation:12 - [翻译任务]
+源文件: /private/var/folders/hs/8p529r5x2811ltb4jwc49lgr0000gn/T/gradio/66651ef9189a70175c829e5abacaf2c1adfcbd4bb90570f74d146e6f45096365/chinese.pdf
+源语言: Chinese
+目标语言: English
+2025-05-03 23:16:23.317 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ 夏⽇的午后，阳光透过斑驳的树叶洒下，形成⼀⽚⽚光影。蝉鸣在枝头此起彼伏，仿佛在演
+奏⼀⾸热烈的交响曲。不远处的池塘⾥，荷花亭亭⽟⽴，粉⽩的花瓣娇嫩欲滴，荷叶上滚动
+着晶莹的⽔珠，⼀切都充满了⽣机与活⼒。
+2025-05-03 23:16:29.813 | DEBUG    | translator.writer:save_translated_book:18 - markdown
+2025-05-03 23:16:29.814 | INFO     | translator.writer:_save_translated_book_markdown:90 - 开始导出: /private/var/folders/hs/8p529r5x2811ltb4jwc49lgr0000gn/T/gradio/66651ef9189a70175c829e5abacaf2c1adfcbd4bb90570f74d146e6f45096365/chinese_translated.md
+2025-05-03 23:16:29.815 | INFO     | translator.writer:save_translated_book:28 - 翻译完成，文件保存至: /private/var/folders/hs/8p529r5x2811ltb4jwc49lgr0000gn/T/gradio/66651ef9189a70175c829e5abacaf2c1adfcbd4bb90570f74d146e6f45096365/chinese_translated.md
+2025-05-03 23:16:56.295 | DEBUG    | __main__:translation:12 - [翻译任务]
+源文件: /private/var/folders/hs/8p529r5x2811ltb4jwc49lgr0000gn/T/gradio/3099adc321c2e6c3dda9ad0e7f8b1a36728318706eff5c150bae6013bc961c16/English.pdf
+源语言: English
+目标语言: Chinese
+2025-05-03 23:16:56.326 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ The beauty of nature is truly astonishing. A gentle breeze rustles the leaves of the trees,
+creating a soft, soothing sound. Along the meandering river, colorful wildflowers bloom in
+profusion, attracting butterflies that flit from one to another. The clear blue sky above is
+dotted with fluffy white clouds. In the distance, majestic mountains stand tall, their peaks
+touching the heavens. It's a sight that fills the heart with peace and wonder.
+2025-05-03 23:17:07.839 | DEBUG    | translator.writer:save_translated_book:18 - markdown
+2025-05-03 23:17:07.840 | INFO     | translator.writer:_save_translated_book_markdown:90 - 开始导出: /private/var/folders/hs/8p529r5x2811ltb4jwc49lgr0000gn/T/gradio/3099adc321c2e6c3dda9ad0e7f8b1a36728318706eff5c150bae6013bc961c16/English_translated.md
+2025-05-03 23:17:07.841 | INFO     | translator.writer:save_translated_book:28 - 翻译完成，文件保存至: /private/var/folders/hs/8p529r5x2811ltb4jwc49lgr0000gn/T/gradio/3099adc321c2e6c3dda9ad0e7f8b1a36728318706eff5c150bae6013bc961c16/English_translated.md
+2025-05-03 23:18:39.791 | DEBUG    | __main__:translation:12 - [翻译任务]
+源文件: /private/var/folders/hs/8p529r5x2811ltb4jwc49lgr0000gn/T/gradio/3099adc321c2e6c3dda9ad0e7f8b1a36728318706eff5c150bae6013bc961c16/English.pdf
+源语言: English
+目标语言: Chinese
+2025-05-03 23:18:39.824 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ The beauty of nature is truly astonishing. A gentle breeze rustles the leaves of the trees,
+creating a soft, soothing sound. Along the meandering river, colorful wildflowers bloom in
+profusion, attracting butterflies that flit from one to another. The clear blue sky above is
+dotted with fluffy white clouds. In the distance, majestic mountains stand tall, their peaks
+touching the heavens. It's a sight that fills the heart with peace and wonder.
+2025-05-03 23:18:50.694 | DEBUG    | translator.writer:save_translated_book:18 - markdown
+2025-05-03 23:18:50.695 | INFO     | translator.writer:_save_translated_book_markdown:90 - 开始导出: /private/var/folders/hs/8p529r5x2811ltb4jwc49lgr0000gn/T/gradio/3099adc321c2e6c3dda9ad0e7f8b1a36728318706eff5c150bae6013bc961c16/English_translated.md
+2025-05-03 23:18:50.695 | INFO     | translator.writer:save_translated_book:28 - 翻译完成，文件保存至: /private/var/folders/hs/8p529r5x2811ltb4jwc49lgr0000gn/T/gradio/3099adc321c2e6c3dda9ad0e7f8b1a36728318706eff5c150bae6013bc961c16/English_translated.md
+2025-05-03 23:52:38.708 | DEBUG    | __main__:translation:12 - [翻译任务]
+源文件: /private/var/folders/hs/8p529r5x2811ltb4jwc49lgr0000gn/T/gradio/3099adc321c2e6c3dda9ad0e7f8b1a36728318706eff5c150bae6013bc961c16/English.pdf
+源语言: English
+目标语言: Chinese
+2025-05-03 23:52:38.722 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ The beauty of nature is truly astonishing. A gentle breeze rustles the leaves of the trees,
+creating a soft, soothing sound. Along the meandering river, colorful wildflowers bloom in
+profusion, attracting butterflies that flit from one to another. The clear blue sky above is
+dotted with fluffy white clouds. In the distance, majestic mountains stand tall, their peaks
+touching the heavens. It's a sight that fills the heart with peace and wonder.
+2025-05-03 23:52:50.271 | DEBUG    | translator.writer:save_translated_book:18 - markdown
+2025-05-03 23:52:50.271 | INFO     | translator.writer:_save_translated_book_markdown:90 - 开始导出: /private/var/folders/hs/8p529r5x2811ltb4jwc49lgr0000gn/T/gradio/3099adc321c2e6c3dda9ad0e7f8b1a36728318706eff5c150bae6013bc961c16/English_translated.md
+2025-05-03 23:52:50.273 | INFO     | translator.writer:save_translated_book:28 - 翻译完成，文件保存至: /private/var/folders/hs/8p529r5x2811ltb4jwc49lgr0000gn/T/gradio/3099adc321c2e6c3dda9ad0e7f8b1a36728318706eff5c150bae6013bc961c16/English_translated.md
+2025-05-03 23:53:11.924 | DEBUG    | __main__:translation:12 - [翻译任务]
+源文件: /private/var/folders/hs/8p529r5x2811ltb4jwc49lgr0000gn/T/gradio/66651ef9189a70175c829e5abacaf2c1adfcbd4bb90570f74d146e6f45096365/chinese.pdf
+源语言: English
+目标语言: Chinese
+2025-05-03 23:53:11.947 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ 夏⽇的午后，阳光透过斑驳的树叶洒下，形成⼀⽚⽚光影。蝉鸣在枝头此起彼伏，仿佛在演
+奏⼀⾸热烈的交响曲。不远处的池塘⾥，荷花亭亭⽟⽴，粉⽩的花瓣娇嫩欲滴，荷叶上滚动
+着晶莹的⽔珠，⼀切都充满了⽣机与活⼒。
+2025-05-03 23:53:17.372 | DEBUG    | translator.writer:save_translated_book:18 - markdown
+2025-05-03 23:53:17.372 | INFO     | translator.writer:_save_translated_book_markdown:90 - 开始导出: /private/var/folders/hs/8p529r5x2811ltb4jwc49lgr0000gn/T/gradio/66651ef9189a70175c829e5abacaf2c1adfcbd4bb90570f74d146e6f45096365/chinese_translated.md
+2025-05-03 23:53:17.373 | INFO     | translator.writer:save_translated_book:28 - 翻译完成，文件保存至: /private/var/folders/hs/8p529r5x2811ltb4jwc49lgr0000gn/T/gradio/66651ef9189a70175c829e5abacaf2c1adfcbd4bb90570f74d146e6f45096365/chinese_translated.md
+2025-05-03 23:54:48.613 | DEBUG    | __main__:translation:12 - [翻译任务]
+源文件: /private/var/folders/hs/8p529r5x2811ltb4jwc49lgr0000gn/T/gradio/3099adc321c2e6c3dda9ad0e7f8b1a36728318706eff5c150bae6013bc961c16/English.pdf
+源语言: English
+目标语言: Chinese
+2025-05-03 23:54:48.624 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ The beauty of nature is truly astonishing. A gentle breeze rustles the leaves of the trees,
+creating a soft, soothing sound. Along the meandering river, colorful wildflowers bloom in
+profusion, attracting butterflies that flit from one to another. The clear blue sky above is
+dotted with fluffy white clouds. In the distance, majestic mountains stand tall, their peaks
+touching the heavens. It's a sight that fills the heart with peace and wonder.
+2025-05-03 23:54:59.648 | DEBUG    | translator.writer:save_translated_book:18 - markdown
+2025-05-03 23:54:59.648 | INFO     | translator.writer:_save_translated_book_markdown:90 - 开始导出: /private/var/folders/hs/8p529r5x2811ltb4jwc49lgr0000gn/T/gradio/3099adc321c2e6c3dda9ad0e7f8b1a36728318706eff5c150bae6013bc961c16/English_translated.md
+2025-05-03 23:54:59.649 | INFO     | translator.writer:save_translated_book:28 - 翻译完成，文件保存至: /private/var/folders/hs/8p529r5x2811ltb4jwc49lgr0000gn/T/gradio/3099adc321c2e6c3dda9ad0e7f8b1a36728318706eff5c150bae6013bc961c16/English_translated.md
